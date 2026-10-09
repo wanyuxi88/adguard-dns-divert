@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式
-# 自动生成于 2026-10-08 03:57:56
+# 自动生成于 2026-10-09 04:03:21
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@ https://dns.google/dns-query
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国内域名规则（共 111086 个域名）
+# 国内域名规则（共 111417 个域名）
 #==================================================
 [/0.xn--czrs0t/]218.2.2.2 218.4.4.4
 [/0.xn--unup4y/]218.2.2.2 218.4.4.4
@@ -272,6 +272,7 @@ https://dns.google/dns-query
 [/021images.vip/]218.2.2.2 218.4.4.4
 [/021jgyy.com/]218.2.2.2 218.4.4.4
 [/021jingwei.com/]218.2.2.2 218.4.4.4
+[/021julaian.com/]218.2.2.2 218.4.4.4
 [/021kd.com/]218.2.2.2 218.4.4.4
 [/021lawfirm.com/]218.2.2.2 218.4.4.4
 [/021phone.com/]218.2.2.2 218.4.4.4
@@ -382,6 +383,7 @@ https://dns.google/dns-query
 [/028pxw.com/]218.2.2.2 218.4.4.4
 [/028sjkj.com/]218.2.2.2 218.4.4.4
 [/028yyyy.com/]218.2.2.2 218.4.4.4
+[/028zk01.net/]218.2.2.2 218.4.4.4
 [/029200.com/]218.2.2.2 218.4.4.4
 [/02924.com/]218.2.2.2 218.4.4.4
 [/029558.com/]218.2.2.2 218.4.4.4
@@ -1847,6 +1849,7 @@ https://dns.google/dns-query
 [/153332.xyz/]218.2.2.2 218.4.4.4
 [/15426.org/]218.2.2.2 218.4.4.4
 [/1545ts.com/]218.2.2.2 218.4.4.4
+[/154800.com/]218.2.2.2 218.4.4.4
 [/155.com/]218.2.2.2 218.4.4.4
 [/155155155.xyz/]218.2.2.2 218.4.4.4
 [/1556.net/]218.2.2.2 218.4.4.4
@@ -2863,6 +2866,7 @@ https://dns.google/dns-query
 [/21cto.com/]218.2.2.2 218.4.4.4
 [/21dagong.com/]218.2.2.2 218.4.4.4
 [/21datasheet.com/]218.2.2.2 218.4.4.4
+[/21days.cloud/]218.2.2.2 218.4.4.4
 [/21deal.com/]218.2.2.2 218.4.4.4
 [/21dianyuan.com/]218.2.2.2 218.4.4.4
 [/21dida.com/]218.2.2.2 218.4.4.4
@@ -3812,6 +3816,7 @@ https://dns.google/dns-query
 [/3600d.com/]218.2.2.2 218.4.4.4
 [/360114.com/]218.2.2.2 218.4.4.4
 [/360118.com/]218.2.2.2 218.4.4.4
+[/3603.com/]218.2.2.2 218.4.4.4
 [/360500.com/]218.2.2.2 218.4.4.4
 [/3608.com/]218.2.2.2 218.4.4.4
 [/360abc.com/]218.2.2.2 218.4.4.4
@@ -4455,6 +4460,7 @@ https://dns.google/dns-query
 [/3qhouse.com/]218.2.2.2 218.4.4.4
 [/3qit.com/]218.2.2.2 218.4.4.4
 [/3qled.com/]218.2.2.2 218.4.4.4
+[/3qpd.com/]218.2.2.2 218.4.4.4
 [/3qwe.com/]218.2.2.2 218.4.4.4
 [/3qxsw.com/]218.2.2.2 218.4.4.4
 [/3qzone.cc/]218.2.2.2 218.4.4.4
@@ -4515,6 +4521,7 @@ https://dns.google/dns-query
 [/3zbsy.com/]218.2.2.2 218.4.4.4
 [/3zhijk.com/]218.2.2.2 218.4.4.4
 [/3zhm.com/]218.2.2.2 218.4.4.4
+[/3zma.com/]218.2.2.2 218.4.4.4
 [/3zmuseum.com/]218.2.2.2 218.4.4.4
 [/3zonegame.com/]218.2.2.2 218.4.4.4
 [/4-xiang.com/]218.2.2.2 218.4.4.4
@@ -4550,6 +4557,7 @@ https://dns.google/dns-query
 [/40035.com/]218.2.2.2 218.4.4.4
 [/400388.com/]218.2.2.2 218.4.4.4
 [/4006216888.com/]218.2.2.2 218.4.4.4
+[/4006242315.com/]218.2.2.2 218.4.4.4
 [/4006300457.com/]218.2.2.2 218.4.4.4
 [/4006339177.com/]218.2.2.2 218.4.4.4
 [/4006510600.com/]218.2.2.2 218.4.4.4
@@ -4691,6 +4699,7 @@ https://dns.google/dns-query
 [/4399api.net/]218.2.2.2 218.4.4.4
 [/4399biule.com/]218.2.2.2 218.4.4.4
 [/4399data.com/]218.2.2.2 218.4.4.4
+[/4399dev.com/]218.2.2.2 218.4.4.4
 [/4399dmw.com/]218.2.2.2 218.4.4.4
 [/4399doc.com/]218.2.2.2 218.4.4.4
 [/4399er.com/]218.2.2.2 218.4.4.4
@@ -6185,6 +6194,7 @@ https://dns.google/dns-query
 [/55shantao.com/]218.2.2.2 218.4.4.4
 [/55tour.com/]218.2.2.2 218.4.4.4
 [/55tuan.com/]218.2.2.2 218.4.4.4
+[/55xiu.com/]218.2.2.2 218.4.4.4
 [/55y.cc/]218.2.2.2 218.4.4.4
 [/55y5.com/]218.2.2.2 218.4.4.4
 [/55zhoucheng.com/]218.2.2.2 218.4.4.4
@@ -6364,6 +6374,7 @@ https://dns.google/dns-query
 [/58daojia.com/]218.2.2.2 218.4.4.4
 [/58demo.com/]218.2.2.2 218.4.4.4
 [/58display.com/]218.2.2.2 218.4.4.4
+[/58dnhs.com/]218.2.2.2 218.4.4.4
 [/58dns.me/]218.2.2.2 218.4.4.4
 [/58dns.org/]218.2.2.2 218.4.4.4
 [/58eventer.com/]218.2.2.2 218.4.4.4
@@ -6812,6 +6823,7 @@ https://dns.google/dns-query
 [/616pic.com/]218.2.2.2 218.4.4.4
 [/618.xn--czrs0t/]218.2.2.2 218.4.4.4
 [/618.xn--vhquv/]218.2.2.2 218.4.4.4
+[/618208.xyz/]218.2.2.2 218.4.4.4
 [/6186.com/]218.2.2.2 218.4.4.4
 [/6187wo.com/]218.2.2.2 218.4.4.4
 [/6188.net/]218.2.2.2 218.4.4.4
@@ -8349,6 +8361,7 @@ https://dns.google/dns-query
 [/888chem.com/]218.2.2.2 218.4.4.4
 [/888fk.cc/]218.2.2.2 218.4.4.4
 [/888lm01.com/]218.2.2.2 218.4.4.4
+[/888lm02.com/]218.2.2.2 218.4.4.4
 [/888pic.com/]218.2.2.2 218.4.4.4
 [/888ppt.com/]218.2.2.2 218.4.4.4
 [/888rj.com/]218.2.2.2 218.4.4.4
@@ -8487,6 +8500,7 @@ https://dns.google/dns-query
 [/8hgame.com/]218.2.2.2 218.4.4.4
 [/8hsleep.com/]218.2.2.2 218.4.4.4
 [/8jdns.net/]218.2.2.2 218.4.4.4
+[/8jianzhan.com/]218.2.2.2 218.4.4.4
 [/8jie8.com/]218.2.2.2 218.4.4.4
 [/8jxn.com/]218.2.2.2 218.4.4.4
 [/8k69vb6421.com/]218.2.2.2 218.4.4.4
@@ -8557,6 +8571,7 @@ https://dns.google/dns-query
 [/9-xin.com/]218.2.2.2 218.4.4.4
 [/9-zhuce.com/]218.2.2.2 218.4.4.4
 [/9.biz/]218.2.2.2 218.4.4.4
+[/9.plus/]218.2.2.2 218.4.4.4
 [/9.xyz/]218.2.2.2 218.4.4.4
 [/90.cc/]218.2.2.2 218.4.4.4
 [/900.vc/]218.2.2.2 218.4.4.4
@@ -8657,6 +8672,7 @@ https://dns.google/dns-query
 [/91anjian.com/]218.2.2.2 218.4.4.4
 [/91art.net/]218.2.2.2 218.4.4.4
 [/91baby.com/]218.2.2.2 218.4.4.4
+[/91biu.work/]218.2.2.2 218.4.4.4
 [/91boshi.net/]218.2.2.2 218.4.4.4
 [/91boshuo.com/]218.2.2.2 218.4.4.4
 [/91bushou.com/]218.2.2.2 218.4.4.4
@@ -9249,6 +9265,7 @@ https://dns.google/dns-query
 [/9898c.com/]218.2.2.2 218.4.4.4
 [/9898jh2.com/]218.2.2.2 218.4.4.4
 [/98b8cd6b21011.beer/]218.2.2.2 218.4.4.4
+[/98cd.com/]218.2.2.2 218.4.4.4
 [/98cloud.com/]218.2.2.2 218.4.4.4
 [/98d4c586f11012.beer/]218.2.2.2 218.4.4.4
 [/98du.com/]218.2.2.2 218.4.4.4
@@ -9332,6 +9349,7 @@ https://dns.google/dns-query
 [/9998.tv/]218.2.2.2 218.4.4.4
 [/99988866.xyz/]218.2.2.2 218.4.4.4
 [/9999224xtz1.shop/]218.2.2.2 218.4.4.4
+[/9999jt.com/]218.2.2.2 218.4.4.4
 [/999ask.com/]218.2.2.2 218.4.4.4
 [/999brain.com/]218.2.2.2 218.4.4.4
 [/999d743c51022.beer/]218.2.2.2 218.4.4.4
@@ -9989,6 +10007,7 @@ https://dns.google/dns-query
 [/actbbs.com/]218.2.2.2 218.4.4.4
 [/actcn.net/]218.2.2.2 218.4.4.4
 [/acthao.com/]218.2.2.2 218.4.4.4
+[/actifchina.net/]218.2.2.2 218.4.4.4
 [/actime.net/]218.2.2.2 218.4.4.4
 [/actions-semi.com/]218.2.2.2 218.4.4.4
 [/actionsky.com/]218.2.2.2 218.4.4.4
@@ -10127,6 +10146,8 @@ https://dns.google/dns-query
 [/admob-cn.com/]218.2.2.2 218.4.4.4
 [/admobile.mobi/]218.2.2.2 218.4.4.4
 [/admonitor.org/]218.2.2.2 218.4.4.4
+[/admpv.com/]218.2.2.2 218.4.4.4
+[/admpv.net/]218.2.2.2 218.4.4.4
 [/admqr.com/]218.2.2.2 218.4.4.4
 [/admsger.com/]218.2.2.2 218.4.4.4
 [/admsidea.com/]218.2.2.2 218.4.4.4
@@ -10166,6 +10187,7 @@ https://dns.google/dns-query
 [/adshuju.com/]218.2.2.2 218.4.4.4
 [/adsjdy.com/]218.2.2.2 218.4.4.4
 [/adslr.com/]218.2.2.2 218.4.4.4
+[/adsmart.cc/]218.2.2.2 218.4.4.4
 [/adsmogo.com/]218.2.2.2 218.4.4.4
 [/adsmogo.mobi/]218.2.2.2 218.4.4.4
 [/adsmogo.net/]218.2.2.2 218.4.4.4
@@ -10196,6 +10218,7 @@ https://dns.google/dns-query
 [/advanced-microsemi.com/]218.2.2.2 218.4.4.4
 [/advanced-pneumatics.com/]218.2.2.2 218.4.4.4
 [/advertcn.com/]218.2.2.2 218.4.4.4
+[/adveteran.com/]218.2.2.2 218.4.4.4
 [/advich.com/]218.2.2.2 218.4.4.4
 [/adview.com/]218.2.2.2 218.4.4.4
 [/advisionhorizon.com/]218.2.2.2 218.4.4.4
@@ -10487,6 +10510,7 @@ https://dns.google/dns-query
 [/ahjinyu.com/]218.2.2.2 218.4.4.4
 [/ahjixi.com/]218.2.2.2 218.4.4.4
 [/ahjk.com/]218.2.2.2 218.4.4.4
+[/ahjk18.com/]218.2.2.2 218.4.4.4
 [/ahjkjt.com/]218.2.2.2 218.4.4.4
 [/ahjlcd.com/]218.2.2.2 218.4.4.4
 [/ahjoe.com/]218.2.2.2 218.4.4.4
@@ -10603,6 +10627,7 @@ https://dns.google/dns-query
 [/ahzs10000.com/]218.2.2.2 218.4.4.4
 [/ahzssw.com/]218.2.2.2 218.4.4.4
 [/ahztsh.com/]218.2.2.2 218.4.4.4
+[/ahzypipe.com/]218.2.2.2 218.4.4.4
 [/ai-abc.com/]218.2.2.2 218.4.4.4
 [/ai-anchor.com/]218.2.2.2 218.4.4.4
 [/ai-augmented.com/]218.2.2.2 218.4.4.4
@@ -11035,6 +11060,7 @@ https://dns.google/dns-query
 [/airtofly.com/]218.2.2.2 218.4.4.4
 [/airtu.me/]218.2.2.2 218.4.4.4
 [/airwh.com/]218.2.2.2 218.4.4.4
+[/aisanrenxing.com/]218.2.2.2 218.4.4.4
 [/aisaohuo.com/]218.2.2.2 218.4.4.4
 [/aisbeijing.com/]218.2.2.2 218.4.4.4
 [/aise.chat/]218.2.2.2 218.4.4.4
@@ -11185,6 +11211,7 @@ https://dns.google/dns-query
 [/aiyjs.com/]218.2.2.2 218.4.4.4
 [/aiykj.com/]218.2.2.2 218.4.4.4
 [/aiyo99.com/]218.2.2.2 218.4.4.4
+[/aiyohoo.com/]218.2.2.2 218.4.4.4
 [/aiyong.work/]218.2.2.2 218.4.4.4
 [/aiyongaiwan.com/]218.2.2.2 218.4.4.4
 [/aiyoubucuo.com/]218.2.2.2 218.4.4.4
@@ -11234,9 +11261,11 @@ https://dns.google/dns-query
 [/ajs17.com/]218.2.2.2 218.4.4.4
 [/ajtmy.com/]218.2.2.2 218.4.4.4
 [/ajuhao.com/]218.2.2.2 218.4.4.4
+[/ajupf.com/]218.2.2.2 218.4.4.4
 [/ajutwatch.com/]218.2.2.2 218.4.4.4
 [/ajwang.com/]218.2.2.2 218.4.4.4
 [/ajxhgy.com/]218.2.2.2 218.4.4.4
+[/ajzjfc.com/]218.2.2.2 218.4.4.4
 [/ajzq.com/]218.2.2.2 218.4.4.4
 [/ak-d.tripcdn.com/]218.2.2.2 218.4.4.4
 [/ak-medical.net/]218.2.2.2 218.4.4.4
@@ -11693,6 +11722,7 @@ https://dns.google/dns-query
 [/allpayx.com/]218.2.2.2 218.4.4.4
 [/allpku.com/]218.2.2.2 218.4.4.4
 [/allposs.com/]218.2.2.2 218.4.4.4
+[/allptt.com/]218.2.2.2 218.4.4.4
 [/allrace.com/]218.2.2.2 218.4.4.4
 [/allred.vip/]218.2.2.2 218.4.4.4
 [/allsafeip.com/]218.2.2.2 218.4.4.4
@@ -11964,6 +11994,7 @@ https://dns.google/dns-query
 [/anhkgg.com/]218.2.2.2 218.4.4.4
 [/anhouse.com/]218.2.2.2 218.4.4.4
 [/anhuaedu.com/]218.2.2.2 218.4.4.4
+[/anhuaiedu.com/]218.2.2.2 218.4.4.4
 [/anhuanjia.com/]218.2.2.2 218.4.4.4
 [/anhui-expressway.net/]218.2.2.2 218.4.4.4
 [/anhui365.net/]218.2.2.2 218.4.4.4
@@ -12128,6 +12159,7 @@ https://dns.google/dns-query
 [/ant-open.com/]218.2.2.2 218.4.4.4
 [/anta.com/]218.2.2.2 218.4.4.4
 [/antaiib.com/]218.2.2.2 218.4.4.4
+[/antairanqi.com/]218.2.2.2 218.4.4.4
 [/antairui.net/]218.2.2.2 218.4.4.4
 [/antangbusiness.com/]218.2.2.2 218.4.4.4
 [/antao.hk/]218.2.2.2 218.4.4.4
@@ -12284,7 +12316,9 @@ https://dns.google/dns-query
 [/aobanghb.com/]218.2.2.2 218.4.4.4
 [/aoboor.com/]218.2.2.2 218.4.4.4
 [/aobosoft.com/]218.2.2.2 218.4.4.4
+[/aoc.com/]218.2.2.2 218.4.4.4
 [/aocde.com/]218.2.2.2 218.4.4.4
+[/aocdisplays.com/]218.2.2.2 218.4.4.4
 [/aocdn.com/]218.2.2.2 218.4.4.4
 [/aoch.com/]218.2.2.2 218.4.4.4
 [/aochengcdn.com/]218.2.2.2 218.4.4.4
@@ -13790,6 +13824,7 @@ https://dns.google/dns-query
 [/badmintone.com/]218.2.2.2 218.4.4.4
 [/badong.net/]218.2.2.2 218.4.4.4
 [/badou.com/]218.2.2.2 218.4.4.4
+[/badousheji.com/]218.2.2.2 218.4.4.4
 [/badouxueyuan.com/]218.2.2.2 218.4.4.4
 [/badu.com/]218.2.2.2 218.4.4.4
 [/badudns.cc/]218.2.2.2 218.4.4.4
@@ -13873,6 +13908,7 @@ https://dns.google/dns-query
 [/baidu.mobi/]218.2.2.2 218.4.4.4
 [/baidu120.cc/]218.2.2.2 218.4.4.4
 [/baidu123.com/]218.2.2.2 218.4.4.4
+[/baidu94.com/]218.2.2.2 218.4.4.4
 [/baiduads.com/]218.2.2.2 218.4.4.4
 [/baiduapp.com/]218.2.2.2 218.4.4.4
 [/baidubaidubaidu.net/]218.2.2.2 218.4.4.4
@@ -14059,6 +14095,7 @@ https://dns.google/dns-query
 [/baishangeek.com/]218.2.2.2 218.4.4.4
 [/baishanyun.com/]218.2.2.2 218.4.4.4
 [/baishicha.com/]218.2.2.2 218.4.4.4
+[/baishicn.com/]218.2.2.2 218.4.4.4
 [/baishimeipai.com/]218.2.2.2 218.4.4.4
 [/baishinetwork.com/]218.2.2.2 218.4.4.4
 [/baishishuju.com/]218.2.2.2 218.4.4.4
@@ -14324,6 +14361,7 @@ https://dns.google/dns-query
 [/banwoo.net/]218.2.2.2 218.4.4.4
 [/banwoyo.net/]218.2.2.2 218.4.4.4
 [/banxiaomazaojiao.com/]218.2.2.2 218.4.4.4
+[/banxueketang.com/]218.2.2.2 218.4.4.4
 [/banye.tech/]218.2.2.2 218.4.4.4
 [/banyiyi.com/]218.2.2.2 218.4.4.4
 [/banyuetan.org/]218.2.2.2 218.4.4.4
@@ -14434,6 +14472,7 @@ https://dns.google/dns-query
 [/baomihua.com/]218.2.2.2 218.4.4.4
 [/baoming.com/]218.2.2.2 218.4.4.4
 [/baoming.work/]218.2.2.2 218.4.4.4
+[/baominggongju.com/]218.2.2.2 218.4.4.4
 [/baomitu.com/]218.2.2.2 218.4.4.4
 [/baoneng.com/]218.2.2.2 218.4.4.4
 [/baoqin.com/]218.2.2.2 218.4.4.4
@@ -14529,6 +14568,7 @@ https://dns.google/dns-query
 [/basechem.org/]218.2.2.2 218.4.4.4
 [/basecity.com/]218.2.2.2 218.4.4.4
 [/based-edu.com/]218.2.2.2 218.4.4.4
+[/basementfg.com/]218.2.2.2 218.4.4.4
 [/baseopendev.com/]218.2.2.2 218.4.4.4
 [/basequan.com/]218.2.2.2 218.4.4.4
 [/basestonedata.com/]218.2.2.2 218.4.4.4
@@ -14769,6 +14809,7 @@ https://dns.google/dns-query
 [/bctdtx.com/]218.2.2.2 218.4.4.4
 [/bctest.com/]218.2.2.2 218.4.4.4
 [/bctts.com/]218.2.2.2 218.4.4.4
+[/bctuitui.com/]218.2.2.2 218.4.4.4
 [/bcty365.com/]218.2.2.2 218.4.4.4
 [/bcvbw.com/]218.2.2.2 218.4.4.4
 [/bcwangluo.net/]218.2.2.2 218.4.4.4
@@ -15480,6 +15521,7 @@ https://dns.google/dns-query
 [/bhccn.com/]218.2.2.2 218.4.4.4
 [/bhcd.net/]218.2.2.2 218.4.4.4
 [/bhcgky.com/]218.2.2.2 218.4.4.4
+[/bhclears.net/]218.2.2.2 218.4.4.4
 [/bhcpu.com/]218.2.2.2 218.4.4.4
 [/bhcyhotel.com/]218.2.2.2 218.4.4.4
 [/bhcyy.com/]218.2.2.2 218.4.4.4
@@ -15887,6 +15929,7 @@ https://dns.google/dns-query
 [/binstream.live/]218.2.2.2 218.4.4.4
 [/binuoniu.com/]218.2.2.2 218.4.4.4
 [/binxin.com/]218.2.2.2 218.4.4.4
+[/binyijiaju.com/]218.2.2.2 218.4.4.4
 [/binzc.com/]218.2.2.2 218.4.4.4
 [/binzhi.com/]218.2.2.2 218.4.4.4
 [/binzhi01asd.xyz/]218.2.2.2 218.4.4.4
@@ -15982,6 +16025,7 @@ https://dns.google/dns-query
 [/biquge8.com/]218.2.2.2 218.4.4.4
 [/biquge9.cc/]218.2.2.2 218.4.4.4
 [/biquge99.cc/]218.2.2.2 218.4.4.4
+[/biqugeabc.com/]218.2.2.2 218.4.4.4
 [/biqugeg.com/]218.2.2.2 218.4.4.4
 [/biqugena.com/]218.2.2.2 218.4.4.4
 [/biquges.com/]218.2.2.2 218.4.4.4
@@ -16022,6 +16066,7 @@ https://dns.google/dns-query
 [/bird.art/]218.2.2.2 218.4.4.4
 [/bird4d.com/]218.2.2.2 218.4.4.4
 [/birdback.org/]218.2.2.2 218.4.4.4
+[/birdicloud.com/]218.2.2.2 218.4.4.4
 [/birdol.com/]218.2.2.2 218.4.4.4
 [/birdotech.com/]218.2.2.2 218.4.4.4
 [/birdwork.com/]218.2.2.2 218.4.4.4
@@ -16055,6 +16100,7 @@ https://dns.google/dns-query
 [/biteabc.com/]218.2.2.2 218.4.4.4
 [/bitech-automotive-wuhu.com/]218.2.2.2 218.4.4.4
 [/bitecoin.com/]218.2.2.2 218.4.4.4
+[/bitefu.net/]218.2.2.2 218.4.4.4
 [/bitell.com/]218.2.2.2 218.4.4.4
 [/bitenn.com/]218.2.2.2 218.4.4.4
 [/bitgo.cc/]218.2.2.2 218.4.4.4
@@ -16076,6 +16122,7 @@ https://dns.google/dns-query
 [/bitqiu.com/]218.2.2.2 218.4.4.4
 [/bitscn.com/]218.2.2.2 218.4.4.4
 [/bitsde.com/]218.2.2.2 218.4.4.4
+[/bitudaili.com/]218.2.2.2 218.4.4.4
 [/bitvh.com/]218.2.2.2 218.4.4.4
 [/bitzsoft.com/]218.2.2.2 218.4.4.4
 [/biubiu.tv/]218.2.2.2 218.4.4.4
@@ -16404,6 +16451,7 @@ https://dns.google/dns-query
 [/bjjtat.com/]218.2.2.2 218.4.4.4
 [/bjjubao.org/]218.2.2.2 218.4.4.4
 [/bjjuli.com/]218.2.2.2 218.4.4.4
+[/bjjwwl.com/]218.2.2.2 218.4.4.4
 [/bjjzjt.com/]218.2.2.2 218.4.4.4
 [/bjjzjxhyxh.com/]218.2.2.2 218.4.4.4
 [/bjjzsc.com/]218.2.2.2 218.4.4.4
@@ -16431,6 +16479,7 @@ https://dns.google/dns-query
 [/bjlcs-tech.com/]218.2.2.2 218.4.4.4
 [/bjlevsoft.com/]218.2.2.2 218.4.4.4
 [/bjlg.com/]218.2.2.2 218.4.4.4
+[/bjlirr.com/]218.2.2.2 218.4.4.4
 [/bjljzw888.com/]218.2.2.2 218.4.4.4
 [/bjllsy.com/]218.2.2.2 218.4.4.4
 [/bjlmg.com/]218.2.2.2 218.4.4.4
@@ -16455,6 +16504,7 @@ https://dns.google/dns-query
 [/bjmts.net/]218.2.2.2 218.4.4.4
 [/bjmxkn.com/]218.2.2.2 218.4.4.4
 [/bjmxy.net/]218.2.2.2 218.4.4.4
+[/bjmxyy.com/]218.2.2.2 218.4.4.4
 [/bjmylike.com/]218.2.2.2 218.4.4.4
 [/bjmzdx.org/]218.2.2.2 218.4.4.4
 [/bjmzw.com/]218.2.2.2 218.4.4.4
@@ -16995,6 +17045,7 @@ https://dns.google/dns-query
 [/bntyh.com/]218.2.2.2 218.4.4.4
 [/bnup.com/]218.2.2.2 218.4.4.4
 [/bnupg.com/]218.2.2.2 218.4.4.4
+[/bnuzz.com/]218.2.2.2 218.4.4.4
 [/bnwin.com/]218.2.2.2 218.4.4.4
 [/bnxf.online/]218.2.2.2 218.4.4.4
 [/bnysq.com/]218.2.2.2 218.4.4.4
@@ -17165,6 +17216,7 @@ https://dns.google/dns-query
 [/bominelec.com/]218.2.2.2 218.4.4.4
 [/boming-sc.com/]218.2.2.2 218.4.4.4
 [/bomman.com/]218.2.2.2 218.4.4.4
+[/bomoer.com/]218.2.2.2 218.4.4.4
 [/bomyg.com/]218.2.2.2 218.4.4.4
 [/bon-top.com/]218.2.2.2 218.4.4.4
 [/bon-wine.com/]218.2.2.2 218.4.4.4
@@ -17236,6 +17288,7 @@ https://dns.google/dns-query
 [/bootcss.com/]218.2.2.2 218.4.4.4
 [/bootmb.com/]218.2.2.2 218.4.4.4
 [/bootstrapmb.com/]218.2.2.2 218.4.4.4
+[/boowayun.com/]218.2.2.2 218.4.4.4
 [/boox.com/]218.2.2.2 218.4.4.4
 [/booyu-import.com/]218.2.2.2 218.4.4.4
 [/booz88.com/]218.2.2.2 218.4.4.4
@@ -17339,6 +17392,7 @@ https://dns.google/dns-query
 [/boxdouyin.com/]218.2.2.2 218.4.4.4
 [/boxim.online/]218.2.2.2 218.4.4.4
 [/boxisign.com/]218.2.2.2 218.4.4.4
+[/boxkj.com/]218.2.2.2 218.4.4.4
 [/boxmoe.com/]218.2.2.2 218.4.4.4
 [/boxuegu.com/]218.2.2.2 218.4.4.4
 [/boxueio.com/]218.2.2.2 218.4.4.4
@@ -17881,6 +17935,7 @@ https://dns.google/dns-query
 [/bxkejian.com/]218.2.2.2 218.4.4.4
 [/bxktv.com/]218.2.2.2 218.4.4.4
 [/bxldz.com/]218.2.2.2 218.4.4.4
+[/bxlsj.com/]218.2.2.2 218.4.4.4
 [/bxltw.com/]218.2.2.2 218.4.4.4
 [/bxmd51.com/]218.2.2.2 218.4.4.4
 [/bxnfsy.com/]218.2.2.2 218.4.4.4
@@ -17915,6 +17970,7 @@ https://dns.google/dns-query
 [/byclean.net/]218.2.2.2 218.4.4.4
 [/byd.auto/]218.2.2.2 218.4.4.4
 [/byd.com/]218.2.2.2 218.4.4.4
+[/byd119.com/]218.2.2.2 218.4.4.4
 [/bydauto.com/]218.2.2.2 218.4.4.4
 [/bydglobal.com/]218.2.2.2 218.4.4.4
 [/bydhaiyang.com/]218.2.2.2 218.4.4.4
@@ -18213,6 +18269,7 @@ https://dns.google/dns-query
 [/c133.com/]218.2.2.2 218.4.4.4
 [/c1a8330703dc6f12.com/]218.2.2.2 218.4.4.4
 [/c1ass.com/]218.2.2.2 218.4.4.4
+[/c1cf.com/]218.2.2.2 218.4.4.4
 [/c1channel.com/]218.2.2.2 218.4.4.4
 [/c1km1.com/]218.2.2.2 218.4.4.4
 [/c1s.com/]218.2.2.2 218.4.4.4
@@ -18356,6 +18413,7 @@ https://dns.google/dns-query
 [/cacakp.com/]218.2.2.2 218.4.4.4
 [/cacfo.com/]218.2.2.2 218.4.4.4
 [/cacfo.net/]218.2.2.2 218.4.4.4
+[/cache123.com/]218.2.2.2 218.4.4.4
 [/cache4ever.com/]218.2.2.2 218.4.4.4
 [/cache666.com/]218.2.2.2 218.4.4.4
 [/cachekit.com/]218.2.2.2 218.4.4.4
@@ -18986,6 +19044,7 @@ https://dns.google/dns-query
 [/cc-q.com/]218.2.2.2 218.4.4.4
 [/cc-uavia.com/]218.2.2.2 218.4.4.4
 [/cc.co/]218.2.2.2 218.4.4.4
+[/cc.ink/]218.2.2.2 218.4.4.4
 [/cc0808.com/]218.2.2.2 218.4.4.4
 [/cc11bh.com/]218.2.2.2 218.4.4.4
 [/cc39ute.shop/]218.2.2.2 218.4.4.4
@@ -19065,6 +19124,7 @@ https://dns.google/dns-query
 [/cce-china.com/]218.2.2.2 218.4.4.4
 [/cce0bd02011032.beer/]218.2.2.2 218.4.4.4
 [/ccea.pro/]218.2.2.2 218.4.4.4
+[/cceacamps.org/]218.2.2.2 218.4.4.4
 [/cceato.com/]218.2.2.2 218.4.4.4
 [/ccebbs.com/]218.2.2.2 218.4.4.4
 [/ccedia.com/]218.2.2.2 218.4.4.4
@@ -19563,6 +19623,7 @@ https://dns.google/dns-query
 [/cdn30.org/]218.2.2.2 218.4.4.4
 [/cdn3344.com/]218.2.2.2 218.4.4.4
 [/cdn35.com/]218.2.2.2 218.4.4.4
+[/cdn362.cc/]218.2.2.2 218.4.4.4
 [/cdn40.com/]218.2.2.2 218.4.4.4
 [/cdn56.com/]218.2.2.2 218.4.4.4
 [/cdn78.xyz/]218.2.2.2 218.4.4.4
@@ -19759,6 +19820,7 @@ https://dns.google/dns-query
 [/cdtlev.com/]218.2.2.2 218.4.4.4
 [/cdtlxx.net/]218.2.2.2 218.4.4.4
 [/cdtszn.net/]218.2.2.2 218.4.4.4
+[/cdttp.com/]218.2.2.2 218.4.4.4
 [/cdtyxx999.com/]218.2.2.2 218.4.4.4
 [/cdtz.net/]218.2.2.2 218.4.4.4
 [/cdu.cc/]218.2.2.2 218.4.4.4
@@ -20522,6 +20584,7 @@ https://dns.google/dns-query
 [/chatm.com/]218.2.2.2 218.4.4.4
 [/chatmindai.net/]218.2.2.2 218.4.4.4
 [/chatnos.com/]218.2.2.2 218.4.4.4
+[/chatopera.com/]218.2.2.2 218.4.4.4
 [/chatqp.net/]218.2.2.2 218.4.4.4
 [/chatvgx.com/]218.2.2.2 218.4.4.4
 [/chatyygpt.com/]218.2.2.2 218.4.4.4
@@ -20943,6 +21006,7 @@ https://dns.google/dns-query
 [/china-3.com/]218.2.2.2 218.4.4.4
 [/china-315.com/]218.2.2.2 218.4.4.4
 [/china-ah.com/]218.2.2.2 218.4.4.4
+[/china-amass.com/]218.2.2.2 218.4.4.4
 [/china-anhe.com/]218.2.2.2 218.4.4.4
 [/china-applefix.com/]218.2.2.2 218.4.4.4
 [/china-asahi.com/]218.2.2.2 218.4.4.4
@@ -21496,6 +21560,7 @@ https://dns.google/dns-query
 [/chinagcl.com/]218.2.2.2 218.4.4.4
 [/chinagdda.com/]218.2.2.2 218.4.4.4
 [/chinagdn.com/]218.2.2.2 218.4.4.4
+[/chinagerson.com/]218.2.2.2 218.4.4.4
 [/chinaghwl.com/]218.2.2.2 218.4.4.4
 [/chinagiftsfair.com/]218.2.2.2 218.4.4.4
 [/chinaglassnet.com/]218.2.2.2 218.4.4.4
@@ -22240,6 +22305,7 @@ https://dns.google/dns-query
 [/chntel.com/]218.2.2.2 218.4.4.4
 [/chnxw.com/]218.2.2.2 218.4.4.4
 [/chocei.com/]218.2.2.2 218.4.4.4
+[/chocolateswap.com/]218.2.2.2 218.4.4.4
 [/chofei.com/]218.2.2.2 218.4.4.4
 [/chofn.com/]218.2.2.2 218.4.4.4
 [/chofn.net/]218.2.2.2 218.4.4.4
@@ -23147,6 +23213,7 @@ https://dns.google/dns-query
 [/cloudleshan.com/]218.2.2.2 218.4.4.4
 [/cloudlijiang.com/]218.2.2.2 218.4.4.4
 [/cloudlishui.com/]218.2.2.2 218.4.4.4
+[/cloudllll.com/]218.2.2.2 218.4.4.4
 [/cloudluohe.com/]218.2.2.2 218.4.4.4
 [/cloudluoyang.com/]218.2.2.2 218.4.4.4
 [/cloudlvs.com/]218.2.2.2 218.4.4.4
@@ -24113,6 +24180,7 @@ https://dns.google/dns-query
 [/cnpmjs.org/]218.2.2.2 218.4.4.4
 [/cnpoli.com/]218.2.2.2 218.4.4.4
 [/cnponer.com/]218.2.2.2 218.4.4.4
+[/cnportunion.com/]218.2.2.2 218.4.4.4
 [/cnpot.com/]218.2.2.2 218.4.4.4
 [/cnpou.com/]218.2.2.2 218.4.4.4
 [/cnpoultry.com/]218.2.2.2 218.4.4.4
@@ -24386,6 +24454,7 @@ https://dns.google/dns-query
 [/co188.com/]218.2.2.2 218.4.4.4
 [/co1in.me/]218.2.2.2 218.4.4.4
 [/co2coin.org/]218.2.2.2 218.4.4.4
+[/co99.net/]218.2.2.2 218.4.4.4
 [/coach-edu.com/]218.2.2.2 218.4.4.4
 [/coach-japanese.com/]218.2.2.2 218.4.4.4
 [/coahr.net/]218.2.2.2 218.4.4.4
@@ -24430,6 +24499,7 @@ https://dns.google/dns-query
 [/codata.lenovo.com/]218.2.2.2 218.4.4.4
 [/code-abc.com/]218.2.2.2 218.4.4.4
 [/code-relay.com/]218.2.2.2 218.4.4.4
+[/code.fun/]218.2.2.2 218.4.4.4
 [/code222.com/]218.2.2.2 218.4.4.4
 [/code369.com/]218.2.2.2 218.4.4.4
 [/code666.com/]218.2.2.2 218.4.4.4
@@ -24480,6 +24550,7 @@ https://dns.google/dns-query
 [/coderyuan.com/]218.2.2.2 218.4.4.4
 [/coderzh.com/]218.2.2.2 218.4.4.4
 [/codes51.com/]218.2.2.2 218.4.4.4
+[/codesana.com/]218.2.2.2 218.4.4.4
 [/codesdq.com/]218.2.2.2 218.4.4.4
 [/codesoft.hk/]218.2.2.2 218.4.4.4
 [/codesoftchina.com/]218.2.2.2 218.4.4.4
@@ -25354,6 +25425,7 @@ https://dns.google/dns-query
 [/cqmw.com/]218.2.2.2 218.4.4.4
 [/cqmylike.com/]218.2.2.2 218.4.4.4
 [/cqmzj.com/]218.2.2.2 218.4.4.4
+[/cqnbmarathon.com/]218.2.2.2 218.4.4.4
 [/cqnc.cc/]218.2.2.2 218.4.4.4
 [/cqncnews.com/]218.2.2.2 218.4.4.4
 [/cqnetcn.com/]218.2.2.2 218.4.4.4
@@ -26448,6 +26520,7 @@ https://dns.google/dns-query
 [/cvillazc.com/]218.2.2.2 218.4.4.4
 [/cvmart.net/]218.2.2.2 218.4.4.4
 [/cvmassageocs.com/]218.2.2.2 218.4.4.4
+[/cvmfe.com/]218.2.2.2 218.4.4.4
 [/cvn-china.com/]218.2.2.2 218.4.4.4
 [/cvoazsxs.cfd/]218.2.2.2 218.4.4.4
 [/cvoesnzau.cfd/]218.2.2.2 218.4.4.4
@@ -27165,6 +27238,7 @@ https://dns.google/dns-query
 [/daishujiankang.com/]218.2.2.2 218.4.4.4
 [/daishutijian.com/]218.2.2.2 218.4.4.4
 [/daisyfin.com/]218.2.2.2 218.4.4.4
+[/daisyfsmp.com/]218.2.2.2 218.4.4.4
 [/daittotrade.com/]218.2.2.2 218.4.4.4
 [/daivc.com/]218.2.2.2 218.4.4.4
 [/daiwofly.com/]218.2.2.2 218.4.4.4
@@ -28091,6 +28165,7 @@ https://dns.google/dns-query
 [/deeplearn.me/]218.2.2.2 218.4.4.4
 [/deeplearn.work/]218.2.2.2 218.4.4.4
 [/deepmd.net/]218.2.2.2 218.4.4.4
+[/deepmodeling.com/]218.2.2.2 218.4.4.4
 [/deepoon.com/]218.2.2.2 218.4.4.4
 [/deeprouter.org/]218.2.2.2 218.4.4.4
 [/deepseapioneer.com/]218.2.2.2 218.4.4.4
@@ -28102,6 +28177,7 @@ https://dns.google/dns-query
 [/deeptrip.com/]218.2.2.2 218.4.4.4
 [/deepvinci.tech/]218.2.2.2 218.4.4.4
 [/deepvps.com/]218.2.2.2 218.4.4.4
+[/deepzero.com/]218.2.2.2 218.4.4.4
 [/deer-express.com/]218.2.2.2 218.4.4.4
 [/deerex.com/]218.2.2.2 218.4.4.4
 [/deerfieldbch.com/]218.2.2.2 218.4.4.4
@@ -28402,6 +28478,7 @@ https://dns.google/dns-query
 [/dfhrc.com/]218.2.2.2 218.4.4.4
 [/dfi09181kq.com/]218.2.2.2 218.4.4.4
 [/dfine.tech/]218.2.2.2 218.4.4.4
+[/dfjxc.com/]218.2.2.2 218.4.4.4
 [/dfjyun.com/]218.2.2.2 218.4.4.4
 [/dfkhgj.com/]218.2.2.2 218.4.4.4
 [/dfkj.cc/]218.2.2.2 218.4.4.4
@@ -28488,6 +28565,7 @@ https://dns.google/dns-query
 [/dggxxh.com/]218.2.2.2 218.4.4.4
 [/dggywx.com/]218.2.2.2 218.4.4.4
 [/dghgzm.com/]218.2.2.2 218.4.4.4
+[/dghire.com/]218.2.2.2 218.4.4.4
 [/dghjt.com/]218.2.2.2 218.4.4.4
 [/dghobo17.com/]218.2.2.2 218.4.4.4
 [/dghonggao.net/]218.2.2.2 218.4.4.4
@@ -28507,6 +28585,7 @@ https://dns.google/dns-query
 [/dglyjx.com/]218.2.2.2 218.4.4.4
 [/dglzd.com/]218.2.2.2 218.4.4.4
 [/dgmama.net/]218.2.2.2 218.4.4.4
+[/dgmcusb.com/]218.2.2.2 218.4.4.4
 [/dgndf.com/]218.2.2.2 218.4.4.4
 [/dgnekon.com/]218.2.2.2 218.4.4.4
 [/dgnet.net/]218.2.2.2 218.4.4.4
@@ -28582,6 +28661,7 @@ https://dns.google/dns-query
 [/dh9191.com/]218.2.2.2 218.4.4.4
 [/dh978.com/]218.2.2.2 218.4.4.4
 [/dhaitun.com/]218.2.2.2 218.4.4.4
+[/dhao2001.com/]218.2.2.2 218.4.4.4
 [/dhb.hk/]218.2.2.2 218.4.4.4
 [/dhb168.com/]218.2.2.2 218.4.4.4
 [/dhboy.com/]218.2.2.2 218.4.4.4
@@ -28630,6 +28710,7 @@ https://dns.google/dns-query
 [/dhw-wiremesh.com/]218.2.2.2 218.4.4.4
 [/dhw22.com/]218.2.2.2 218.4.4.4
 [/dhwooden.com/]218.2.2.2 218.4.4.4
+[/dhxjzp.com/]218.2.2.2 218.4.4.4
 [/dhxx.com/]218.2.2.2 218.4.4.4
 [/dhyct.com/]218.2.2.2 218.4.4.4
 [/dhyjaqa.com/]218.2.2.2 218.4.4.4
@@ -28668,6 +28749,7 @@ https://dns.google/dns-query
 [/dianchouapp.com/]218.2.2.2 218.4.4.4
 [/diandanbao.com/]218.2.2.2 218.4.4.4
 [/diandao.org/]218.2.2.2 218.4.4.4
+[/diandaojia.net/]218.2.2.2 218.4.4.4
 [/diandaxia.com/]218.2.2.2 218.4.4.4
 [/diandeng.tech/]218.2.2.2 218.4.4.4
 [/diandian.com/]218.2.2.2 218.4.4.4
@@ -29003,6 +29085,7 @@ https://dns.google/dns-query
 [/dingruxin.com/]218.2.2.2 218.4.4.4
 [/dingsheng.com/]218.2.2.2 218.4.4.4
 [/dingso.com/]218.2.2.2 218.4.4.4
+[/dingstock.net/]218.2.2.2 218.4.4.4
 [/dingtalk.co.jp/]218.2.2.2 218.4.4.4
 [/dingtalk.com/]218.2.2.2 218.4.4.4
 [/dingtalk.io/]218.2.2.2 218.4.4.4
@@ -29185,6 +29268,7 @@ https://dns.google/dns-query
 [/djigo.djicdn.com/]218.2.2.2 218.4.4.4
 [/djigoapi.djiservice.org/]218.2.2.2 218.4.4.4
 [/djjgj.com/]218.2.2.2 218.4.4.4
+[/djjlgs.com/]218.2.2.2 218.4.4.4
 [/djjw.com/]218.2.2.2 218.4.4.4
 [/djjyzly.com/]218.2.2.2 218.4.4.4
 [/djkk.com/]218.2.2.2 218.4.4.4
@@ -29290,6 +29374,7 @@ https://dns.google/dns-query
 [/dljczb.com/]218.2.2.2 218.4.4.4
 [/dljianbing.com/]218.2.2.2 218.4.4.4
 [/dljierui.com/]218.2.2.2 218.4.4.4
+[/dljinfeng.com/]218.2.2.2 218.4.4.4
 [/dljlxx.com/]218.2.2.2 218.4.4.4
 [/dljrw.com/]218.2.2.2 218.4.4.4
 [/dljs.net/]218.2.2.2 218.4.4.4
@@ -29696,6 +29781,7 @@ https://dns.google/dns-query
 [/dondonwenda.com/]218.2.2.2 218.4.4.4
 [/done-home.com/]218.2.2.2 218.4.4.4
 [/donews.com/]218.2.2.2 218.4.4.4
+[/dong-ning.com/]218.2.2.2 218.4.4.4
 [/dong-shou.com/]218.2.2.2 218.4.4.4
 [/dong-xu.com/]218.2.2.2 218.4.4.4
 [/dong10.com/]218.2.2.2 218.4.4.4
@@ -30296,6 +30382,7 @@ https://dns.google/dns-query
 [/dsfuse.com/]218.2.2.2 218.4.4.4
 [/dsfzcz.com/]218.2.2.2 218.4.4.4
 [/dsfzh.com/]218.2.2.2 218.4.4.4
+[/dsgh.com/]218.2.2.2 218.4.4.4
 [/dshigao.com/]218.2.2.2 218.4.4.4
 [/dshltech.com/]218.2.2.2 218.4.4.4
 [/dshrc.com/]218.2.2.2 218.4.4.4
@@ -30370,6 +30457,7 @@ https://dns.google/dns-query
 [/dthr.com/]218.2.2.2 218.4.4.4
 [/dtidc.com/]218.2.2.2 218.4.4.4
 [/dtime.com/]218.2.2.2 218.4.4.4
+[/dtinsure.com/]218.2.2.2 218.4.4.4
 [/dtjh-bj.com/]218.2.2.2 218.4.4.4
 [/dtlty.com/]218.2.2.2 218.4.4.4
 [/dtmbw.com/]218.2.2.2 218.4.4.4
@@ -30767,6 +30855,7 @@ https://dns.google/dns-query
 [/dxfblog.com/]218.2.2.2 218.4.4.4
 [/dxgg.co/]218.2.2.2 218.4.4.4
 [/dxguanxian.org/]218.2.2.2 218.4.4.4
+[/dxhg007.com/]218.2.2.2 218.4.4.4
 [/dxhuafu.net/]218.2.2.2 218.4.4.4
 [/dxinzf.com/]218.2.2.2 218.4.4.4
 [/dxjs.com/]218.2.2.2 218.4.4.4
@@ -31105,6 +31194,7 @@ https://dns.google/dns-query
 [/e0575.com/]218.2.2.2 218.4.4.4
 [/e0734.com/]218.2.2.2 218.4.4.4
 [/e0838.com/]218.2.2.2 218.4.4.4
+[/e0x233.com/]218.2.2.2 218.4.4.4
 [/e1.vdowowza.vip.hk1.tvb.com/]218.2.2.2 218.4.4.4
 [/e12345.com/]218.2.2.2 218.4.4.4
 [/e1299.com/]218.2.2.2 218.4.4.4
@@ -31369,6 +31459,7 @@ https://dns.google/dns-query
 [/easysensor.net/]218.2.2.2 218.4.4.4
 [/easysofthome.com/]218.2.2.2 218.4.4.4
 [/easyswoole.com/]218.2.2.2 218.4.4.4
+[/easytier.net/]218.2.2.2 218.4.4.4
 [/easytimetv.com/]218.2.2.2 218.4.4.4
 [/easytite.com/]218.2.2.2 218.4.4.4
 [/easytocn.com/]218.2.2.2 218.4.4.4
@@ -31680,6 +31771,7 @@ https://dns.google/dns-query
 [/edgescloud.cloud/]218.2.2.2 218.4.4.4
 [/edgesrv.com/]218.2.2.2 218.4.4.4
 [/edgetls.xyz/]218.2.2.2 218.4.4.4
+[/edgezeta.com/]218.2.2.2 218.4.4.4
 [/edhic.com/]218.2.2.2 218.4.4.4
 [/edianda.com/]218.2.2.2 218.4.4.4
 [/edianshang.com/]218.2.2.2 218.4.4.4
@@ -32750,6 +32842,7 @@ https://dns.google/dns-query
 [/et0731.com/]218.2.2.2 218.4.4.4
 [/et363.com/]218.2.2.2 218.4.4.4
 [/et59.com/]218.2.2.2 218.4.4.4
+[/eta-semi.com/]218.2.2.2 218.4.4.4
 [/etang.com/]218.2.2.2 218.4.4.4
 [/etao.com/]218.2.2.2 218.4.4.4
 [/etaog.com/]218.2.2.2 218.4.4.4
@@ -33163,6 +33256,7 @@ https://dns.google/dns-query
 [/eye0776.com/]218.2.2.2 218.4.4.4
 [/eye0777.com/]218.2.2.2 218.4.4.4
 [/eye0779.com/]218.2.2.2 218.4.4.4
+[/eye4cloud.com/]218.2.2.2 218.4.4.4
 [/eyeabc.com/]218.2.2.2 218.4.4.4
 [/eyee.com/]218.2.2.2 218.4.4.4
 [/eyeofcloud.com/]218.2.2.2 218.4.4.4
@@ -33207,6 +33301,7 @@ https://dns.google/dns-query
 [/ez01.com/]218.2.2.2 218.4.4.4
 [/ezagoo.com/]218.2.2.2 218.4.4.4
 [/ezaiai.com/]218.2.2.2 218.4.4.4
+[/ezc88.com/]218.2.2.2 218.4.4.4
 [/ezca.org/]218.2.2.2 218.4.4.4
 [/ezchip.tech/]218.2.2.2 218.4.4.4
 [/ezcname.com/]218.2.2.2 218.4.4.4
@@ -33426,6 +33521,7 @@ https://dns.google/dns-query
 [/fajiayun.com/]218.2.2.2 218.4.4.4
 [/fajihao.com/]218.2.2.2 218.4.4.4
 [/faka.it/]218.2.2.2 218.4.4.4
+[/faka163.com/]218.2.2.2 218.4.4.4
 [/fakamiao.com/]218.2.2.2 218.4.4.4
 [/fakamiao.shop/]218.2.2.2 218.4.4.4
 [/fakeloc.cc/]218.2.2.2 218.4.4.4
@@ -34078,8 +34174,10 @@ https://dns.google/dns-query
 [/feimosheji.com/]218.2.2.2 218.4.4.4
 [/feinews.com/]218.2.2.2 218.4.4.4
 [/feiniao.name/]218.2.2.2 218.4.4.4
+[/feiniao360.com/]218.2.2.2 218.4.4.4
 [/feiniaowangluo.com/]218.2.2.2 218.4.4.4
 [/feiniu.com/]218.2.2.2 218.4.4.4
+[/feiniugo.com/]218.2.2.2 218.4.4.4
 [/feinno.com/]218.2.2.2 218.4.4.4
 [/feiphp.com/]218.2.2.2 218.4.4.4
 [/feipin.com/]218.2.2.2 218.4.4.4
@@ -34675,6 +34773,7 @@ https://dns.google/dns-query
 [/fjdaily.com/]218.2.2.2 218.4.4.4
 [/fjdaze.com/]218.2.2.2 218.4.4.4
 [/fjdc.xyz/]218.2.2.2 218.4.4.4
+[/fjdejing.com/]218.2.2.2 218.4.4.4
 [/fjdfxy.com/]218.2.2.2 218.4.4.4
 [/fjdh.com/]218.2.2.2 218.4.4.4
 [/fjdygljt.com/]218.2.2.2 218.4.4.4
@@ -35032,6 +35131,7 @@ https://dns.google/dns-query
 [/fnrczp.com/]218.2.2.2 218.4.4.4
 [/fnsbqvz.com/]218.2.2.2 218.4.4.4
 [/fnscore.com/]218.2.2.2 218.4.4.4
+[/fnspeed.net/]218.2.2.2 218.4.4.4
 [/fnwlzz.com/]218.2.2.2 218.4.4.4
 [/fnxzyy.com/]218.2.2.2 218.4.4.4
 [/fnyes.com/]218.2.2.2 218.4.4.4
@@ -35232,6 +35332,7 @@ https://dns.google/dns-query
 [/foundersc.com/]218.2.2.2 218.4.4.4
 [/foundertech.com/]218.2.2.2 218.4.4.4
 [/foundertype.com/]218.2.2.2 218.4.4.4
+[/founderyt.com/]218.2.2.2 218.4.4.4
 [/founpad.com/]218.2.2.2 218.4.4.4
 [/four-faith.com/]218.2.2.2 218.4.4.4
 [/fourco-inc.com/]218.2.2.2 218.4.4.4
@@ -35730,6 +35831,7 @@ https://dns.google/dns-query
 [/fundebug.com/]218.2.2.2 218.4.4.4
 [/fundebug.net/]218.2.2.2 218.4.4.4
 [/fundegroup.com/]218.2.2.2 218.4.4.4
+[/fundergroup.com/]218.2.2.2 218.4.4.4
 [/fundog.cc/]218.2.2.2 218.4.4.4
 [/fundrive.com/]218.2.2.2 218.4.4.4
 [/fundxy.com/]218.2.2.2 218.4.4.4
@@ -35748,6 +35850,7 @@ https://dns.google/dns-query
 [/funjsq.com/]218.2.2.2 218.4.4.4
 [/funkoonlinegb.club/]218.2.2.2 218.4.4.4
 [/funletu.com/]218.2.2.2 218.4.4.4
+[/funlinkads.com/]218.2.2.2 218.4.4.4
 [/funliving.com/]218.2.2.2 218.4.4.4
 [/funmz.com/]218.2.2.2 218.4.4.4
 [/funnet.net/]218.2.2.2 218.4.4.4
@@ -35912,6 +36015,7 @@ https://dns.google/dns-query
 [/fx168news.com/]218.2.2.2 218.4.4.4
 [/fx168vip.com/]218.2.2.2 218.4.4.4
 [/fx3q.com/]218.2.2.2 218.4.4.4
+[/fx666.cc/]218.2.2.2 218.4.4.4
 [/fx678.com/]218.2.2.2 218.4.4.4
 [/fx678.net/]218.2.2.2 218.4.4.4
 [/fx678img.com/]218.2.2.2 218.4.4.4
@@ -36104,6 +36208,7 @@ https://dns.google/dns-query
 [/fzec-tencentclb.com/]218.2.2.2 218.4.4.4
 [/fzec-tencentclb.net/]218.2.2.2 218.4.4.4
 [/fzec-tencentclb.work/]218.2.2.2 218.4.4.4
+[/fzedu.pub/]218.2.2.2 218.4.4.4
 [/fzele.com/]218.2.2.2 218.4.4.4
 [/fzengine.com/]218.2.2.2 218.4.4.4
 [/fzentertainment.com/]218.2.2.2 218.4.4.4
@@ -36731,6 +36836,7 @@ https://dns.google/dns-query
 [/gd-ls.com/]218.2.2.2 218.4.4.4
 [/gd-lt.com/]218.2.2.2 218.4.4.4
 [/gd-realfaith.com/]218.2.2.2 218.4.4.4
+[/gd-reuse.com/]218.2.2.2 218.4.4.4
 [/gd-shenhua.com/]218.2.2.2 218.4.4.4
 [/gd-tianchen.com/]218.2.2.2 218.4.4.4
 [/gd-tianyue.com/]218.2.2.2 218.4.4.4
@@ -37013,6 +37119,7 @@ https://dns.google/dns-query
 [/gdomall.com/]218.2.2.2 218.4.4.4
 [/gdou.com/]218.2.2.2 218.4.4.4
 [/gdpace.com/]218.2.2.2 218.4.4.4
+[/gdpcdz.com/]218.2.2.2 218.4.4.4
 [/gdpdd.com/]218.2.2.2 218.4.4.4
 [/gdpengquan.com/]218.2.2.2 218.4.4.4
 [/gdpia.com/]218.2.2.2 218.4.4.4
@@ -37208,6 +37315,7 @@ https://dns.google/dns-query
 [/gdzjdl.com/]218.2.2.2 218.4.4.4
 [/gdzjqy.com/]218.2.2.2 218.4.4.4
 [/gdzp.org/]218.2.2.2 218.4.4.4
+[/gdzqrz.com/]218.2.2.2 218.4.4.4
 [/gdzrlj.com/]218.2.2.2 218.4.4.4
 [/gdzs2018.cc/]218.2.2.2 218.4.4.4
 [/gdzs2018.vip/]218.2.2.2 218.4.4.4
@@ -37391,6 +37499,7 @@ https://dns.google/dns-query
 [/genforce-tech.com/]218.2.2.2 218.4.4.4
 [/gengchuangz.com/]218.2.2.2 218.4.4.4
 [/gengdd.com/]218.2.2.2 218.4.4.4
+[/gengduzhiku.com/]218.2.2.2 218.4.4.4
 [/gengfuwang.com/]218.2.2.2 218.4.4.4
 [/genghai.com/]218.2.2.2 218.4.4.4
 [/gengleyuan.com/]218.2.2.2 218.4.4.4
@@ -37809,6 +37918,7 @@ https://dns.google/dns-query
 [/giecds.com/]218.2.2.2 218.4.4.4
 [/giexya.com/]218.2.2.2 218.4.4.4
 [/gif5.net/]218.2.2.2 218.4.4.4
+[/gifeasy.com/]218.2.2.2 218.4.4.4
 [/giffox.com/]218.2.2.2 218.4.4.4
 [/gifhome.com/]218.2.2.2 218.4.4.4
 [/gifpay.com/]218.2.2.2 218.4.4.4
@@ -39044,6 +39154,7 @@ https://dns.google/dns-query
 [/gryltop.com/]218.2.2.2 218.4.4.4
 [/gryphline.com/]218.2.2.2 218.4.4.4
 [/gryw666.com/]218.2.2.2 218.4.4.4
+[/grz-hx.com/]218.2.2.2 218.4.4.4
 [/grzmz.com/]218.2.2.2 218.4.4.4
 [/grzq.com/]218.2.2.2 218.4.4.4
 [/gs-cdn.com/]218.2.2.2 218.4.4.4
@@ -41044,6 +41155,7 @@ https://dns.google/dns-query
 [/gxrijia.com/]218.2.2.2 218.4.4.4
 [/gxrjf.com/]218.2.2.2 218.4.4.4
 [/gxrjyy.com/]218.2.2.2 218.4.4.4
+[/gxrke1715.com/]218.2.2.2 218.4.4.4
 [/gxrkyy.com/]218.2.2.2 218.4.4.4
 [/gxrmzs.com/]218.2.2.2 218.4.4.4
 [/gxrnzb.com/]218.2.2.2 218.4.4.4
@@ -41917,6 +42029,7 @@ https://dns.google/dns-query
 [/gzhuiyk.com/]218.2.2.2 218.4.4.4
 [/gzhuiyun.com/]218.2.2.2 218.4.4.4
 [/gzhwgg.com/]218.2.2.2 218.4.4.4
+[/gzhwjdz.com/]218.2.2.2 218.4.4.4
 [/gzhwsp.com/]218.2.2.2 218.4.4.4
 [/gzhx04.com/]218.2.2.2 218.4.4.4
 [/gzhx09.com/]218.2.2.2 218.4.4.4
@@ -42111,6 +42224,7 @@ https://dns.google/dns-query
 [/gzsheraton.com/]218.2.2.2 218.4.4.4
 [/gzshik.com/]218.2.2.2 218.4.4.4
 [/gzshiran.com/]218.2.2.2 218.4.4.4
+[/gzshisan.com/]218.2.2.2 218.4.4.4
 [/gzshuangbao.com/]218.2.2.2 218.4.4.4
 [/gzshuimh.com/]218.2.2.2 218.4.4.4
 [/gzshujuhui.com/]218.2.2.2 218.4.4.4
@@ -43082,6 +43196,7 @@ https://dns.google/dns-query
 [/haohanjx.com/]218.2.2.2 218.4.4.4
 [/haohanpower.tech/]218.2.2.2 218.4.4.4
 [/haohanstar.com/]218.2.2.2 218.4.4.4
+[/haohanxinyu.com/]218.2.2.2 218.4.4.4
 [/haohaodoc.com/]218.2.2.2 218.4.4.4
 [/haohaowan.com/]218.2.2.2 218.4.4.4
 [/haohaowan.net/]218.2.2.2 218.4.4.4
@@ -43782,6 +43897,7 @@ https://dns.google/dns-query
 [/hbxhxkj.com/]218.2.2.2 218.4.4.4
 [/hbxinfadi.com/]218.2.2.2 218.4.4.4
 [/hbxingchi.com/]218.2.2.2 218.4.4.4
+[/hbxjy88.com/]218.2.2.2 218.4.4.4
 [/hbxmcy.com/]218.2.2.2 218.4.4.4
 [/hbxot.com/]218.2.2.2 218.4.4.4
 [/hbxtzx.com/]218.2.2.2 218.4.4.4
@@ -43825,6 +43941,7 @@ https://dns.google/dns-query
 [/hbzm.cc/]218.2.2.2 218.4.4.4
 [/hbzmw.com/]218.2.2.2 218.4.4.4
 [/hbzncz.com/]218.2.2.2 218.4.4.4
+[/hbzpzg.com/]218.2.2.2 218.4.4.4
 [/hbzqzx.com/]218.2.2.2 218.4.4.4
 [/hbzsb.com/]218.2.2.2 218.4.4.4
 [/hbzszy.net/]218.2.2.2 218.4.4.4
@@ -43890,6 +44007,7 @@ https://dns.google/dns-query
 [/hcjike.com/]218.2.2.2 218.4.4.4
 [/hcjt.cc/]218.2.2.2 218.4.4.4
 [/hckg.com/]218.2.2.2 218.4.4.4
+[/hclassplatform.com/]218.2.2.2 218.4.4.4
 [/hclonely.com/]218.2.2.2 218.4.4.4
 [/hclouder.com/]218.2.2.2 218.4.4.4
 [/hcmiraefund.com/]218.2.2.2 218.4.4.4
@@ -43961,6 +44079,7 @@ https://dns.google/dns-query
 [/hdbp.com/]218.2.2.2 218.4.4.4
 [/hdbus.net/]218.2.2.2 218.4.4.4
 [/hdbz.net/]218.2.2.2 218.4.4.4
+[/hdcm00.com/]218.2.2.2 218.4.4.4
 [/hdcms.net/]218.2.2.2 218.4.4.4
 [/hdcy123.com/]218.2.2.2 218.4.4.4
 [/hdd-group.com/]218.2.2.2 218.4.4.4
@@ -45028,6 +45147,7 @@ https://dns.google/dns-query
 [/higgmm.net/]218.2.2.2 218.4.4.4
 [/higgsweb.com/]218.2.2.2 218.4.4.4
 [/high-genius.com/]218.2.2.2 218.4.4.4
+[/highcock.com/]218.2.2.2 218.4.4.4
 [/highdigitizing.com/]218.2.2.2 218.4.4.4
 [/highfaststudio.com/]218.2.2.2 218.4.4.4
 [/highfel.com/]218.2.2.2 218.4.4.4
@@ -45278,6 +45398,7 @@ https://dns.google/dns-query
 [/hjdzn.com/]218.2.2.2 218.4.4.4
 [/hjg365.com/]218.2.2.2 218.4.4.4
 [/hjgcd.com/]218.2.2.2 218.4.4.4
+[/hjgdrop.cc/]218.2.2.2 218.4.4.4
 [/hjgroup-sdq.com/]218.2.2.2 218.4.4.4
 [/hjgrp.com/]218.2.2.2 218.4.4.4
 [/hjgtjt.com/]218.2.2.2 218.4.4.4
@@ -45482,6 +45603,7 @@ https://dns.google/dns-query
 [/hlkncse.com/]218.2.2.2 218.4.4.4
 [/hlktech.com/]218.2.2.2 218.4.4.4
 [/hllinks.com/]218.2.2.2 218.4.4.4
+[/hlmj888.com/]218.2.2.2 218.4.4.4
 [/hlmmold.com/]218.2.2.2 218.4.4.4
 [/hlnhw.com/]218.2.2.2 218.4.4.4
 [/hlnmg.com/]218.2.2.2 218.4.4.4
@@ -45981,6 +46103,7 @@ https://dns.google/dns-query
 [/hnzjip.com/]218.2.2.2 218.4.4.4
 [/hnzjj.com/]218.2.2.2 218.4.4.4
 [/hnzjyl.com/]218.2.2.2 218.4.4.4
+[/hnzjyw.com/]218.2.2.2 218.4.4.4
 [/hnzkclouds.com/]218.2.2.2 218.4.4.4
 [/hnzkhbsb.com/]218.2.2.2 218.4.4.4
 [/hnzm.vip/]218.2.2.2 218.4.4.4
@@ -46262,6 +46385,7 @@ https://dns.google/dns-query
 [/hongyanliren.com/]218.2.2.2 218.4.4.4
 [/hongyans.com/]218.2.2.2 218.4.4.4
 [/hongyantruck.com/]218.2.2.2 218.4.4.4
+[/hongyanyanbaihuo.online/]218.2.2.2 218.4.4.4
 [/hongyaomall.com/]218.2.2.2 218.4.4.4
 [/hongyawang.com/]218.2.2.2 218.4.4.4
 [/hongyejixie.com/]218.2.2.2 218.4.4.4
@@ -46321,6 +46445,7 @@ https://dns.google/dns-query
 [/hoonup.com/]218.2.2.2 218.4.4.4
 [/hoopchina.com/]218.2.2.2 218.4.4.4
 [/hoopugames.net/]218.2.2.2 218.4.4.4
+[/hoorahgo.com/]218.2.2.2 218.4.4.4
 [/hoosho.com/]218.2.2.2 218.4.4.4
 [/hooshun.com/]218.2.2.2 218.4.4.4
 [/hoosuntec.com/]218.2.2.2 218.4.4.4
@@ -46416,6 +46541,7 @@ https://dns.google/dns-query
 [/hostmonit.com/]218.2.2.2 218.4.4.4
 [/hostoexp.com/]218.2.2.2 218.4.4.4
 [/hostxen.com/]218.2.2.2 218.4.4.4
+[/hostzg.com/]218.2.2.2 218.4.4.4
 [/hot0755.com/]218.2.2.2 218.4.4.4
 [/hotalk.com/]218.2.2.2 218.4.4.4
 [/hotata.com/]218.2.2.2 218.4.4.4
@@ -46768,6 +46894,7 @@ https://dns.google/dns-query
 [/hsdcw.com/]218.2.2.2 218.4.4.4
 [/hsdfzp.com/]218.2.2.2 218.4.4.4
 [/hsdjz.com/]218.2.2.2 218.4.4.4
+[/hsdxdl.com/]218.2.2.2 218.4.4.4
 [/hseda.com/]218.2.2.2 218.4.4.4
 [/hsehome.com/]218.2.2.2 218.4.4.4
 [/hsehome.org/]218.2.2.2 218.4.4.4
@@ -46859,6 +46986,7 @@ https://dns.google/dns-query
 [/hsy188.com/]218.2.2.2 218.4.4.4
 [/hsyaguanjg.com/]218.2.2.2 218.4.4.4
 [/hsyanyi.com/]218.2.2.2 218.4.4.4
+[/hsygzx.net/]218.2.2.2 218.4.4.4
 [/hsyk023.com/]218.2.2.2 218.4.4.4
 [/hsysupply.com/]218.2.2.2 218.4.4.4
 [/hsyuntai.com/]218.2.2.2 218.4.4.4
@@ -46965,6 +47093,7 @@ https://dns.google/dns-query
 [/htsjj.com/]218.2.2.2 218.4.4.4
 [/htslauto.com/]218.2.2.2 218.4.4.4
 [/htsprings.com/]218.2.2.2 218.4.4.4
+[/htst273h.com/]218.2.2.2 218.4.4.4
 [/httdsj.com/]218.2.2.2 218.4.4.4
 [/htths.com/]218.2.2.2 218.4.4.4
 [/httingshu.com/]218.2.2.2 218.4.4.4
@@ -47035,6 +47164,7 @@ https://dns.google/dns-query
 [/huacaole.com/]218.2.2.2 218.4.4.4
 [/huacemedia.com/]218.2.2.2 218.4.4.4
 [/huachang-alu.com/]218.2.2.2 218.4.4.4
+[/huacheng2025.com/]218.2.2.2 218.4.4.4
 [/huachengenjoy.com/]218.2.2.2 218.4.4.4
 [/huachengjx.com/]218.2.2.2 218.4.4.4
 [/huachenholdings.com/]218.2.2.2 218.4.4.4
@@ -48351,6 +48481,7 @@ https://dns.google/dns-query
 [/hxjxs.com/]218.2.2.2 218.4.4.4
 [/hxjxsw.com/]218.2.2.2 218.4.4.4
 [/hxkba.com/]218.2.2.2 218.4.4.4
+[/hxkchips.com/]218.2.2.2 218.4.4.4
 [/hxkfh.com/]218.2.2.2 218.4.4.4
 [/hxkgjt.com/]218.2.2.2 218.4.4.4
 [/hxkj.cc/]218.2.2.2 218.4.4.4
@@ -48599,6 +48730,7 @@ https://dns.google/dns-query
 [/hyshi.net/]218.2.2.2 218.4.4.4
 [/hysound.com/]218.2.2.2 218.4.4.4
 [/hysteeltube.com/]218.2.2.2 218.4.4.4
+[/hystypec.com/]218.2.2.2 218.4.4.4
 [/hyswcn.com/]218.2.2.2 218.4.4.4
 [/hyswjt.net/]218.2.2.2 218.4.4.4
 [/hysyyl.com/]218.2.2.2 218.4.4.4
@@ -48832,6 +48964,7 @@ https://dns.google/dns-query
 [/hzhtlh.com/]218.2.2.2 218.4.4.4
 [/hzhuning.com/]218.2.2.2 218.4.4.4
 [/hzhuti.com/]218.2.2.2 218.4.4.4
+[/hzhwgd.com/]218.2.2.2 218.4.4.4
 [/hzhx.com/]218.2.2.2 218.4.4.4
 [/hzhxfy88888.com/]218.2.2.2 218.4.4.4
 [/hzhxsy.com/]218.2.2.2 218.4.4.4
@@ -48935,6 +49068,7 @@ https://dns.google/dns-query
 [/hzorganicchem.com/]218.2.2.2 218.4.4.4
 [/hzou.net/]218.2.2.2 218.4.4.4
 [/hzpcs.com/]218.2.2.2 218.4.4.4
+[/hzpfb.com/]218.2.2.2 218.4.4.4
 [/hzpgc.com/]218.2.2.2 218.4.4.4
 [/hzpswy.com/]218.2.2.2 218.4.4.4
 [/hzpzs.net/]218.2.2.2 218.4.4.4
@@ -48992,6 +49126,7 @@ https://dns.google/dns-query
 [/hzspeed.com/]218.2.2.2 218.4.4.4
 [/hzsports.net/]218.2.2.2 218.4.4.4
 [/hzsqsmart.com/]218.2.2.2 218.4.4.4
+[/hzssjp.com/]218.2.2.2 218.4.4.4
 [/hzsswjt.com/]218.2.2.2 218.4.4.4
 [/hzstad.com/]218.2.2.2 218.4.4.4
 [/hzstad88.com/]218.2.2.2 218.4.4.4
@@ -49017,6 +49152,7 @@ https://dns.google/dns-query
 [/hztianlang.com/]218.2.2.2 218.4.4.4
 [/hztiger.com/]218.2.2.2 218.4.4.4
 [/hztssy.com/]218.2.2.2 218.4.4.4
+[/hzttwl.com/]218.2.2.2 218.4.4.4
 [/hztuoliang.com/]218.2.2.2 218.4.4.4
 [/hztvmg.com/]218.2.2.2 218.4.4.4
 [/hztx.com/]218.2.2.2 218.4.4.4
@@ -49078,6 +49214,7 @@ https://dns.google/dns-query
 [/hzywinf.com/]218.2.2.2 218.4.4.4
 [/hzyxart.com/]218.2.2.2 218.4.4.4
 [/hzyye.com/]218.2.2.2 218.4.4.4
+[/hzyykjyxgs.xyz/]218.2.2.2 218.4.4.4
 [/hzyys.com/]218.2.2.2 218.4.4.4
 [/hzyz.net/]218.2.2.2 218.4.4.4
 [/hzyzxx.net/]218.2.2.2 218.4.4.4
@@ -49560,6 +49697,7 @@ https://dns.google/dns-query
 [/icloudnative.io/]218.2.2.2 218.4.4.4
 [/icloudnews.net/]218.2.2.2 218.4.4.4
 [/iclouds.work/]218.2.2.2 218.4.4.4
+[/icloudsky.com/]218.2.2.2 218.4.4.4
 [/icloudv6.com/]218.2.2.2 218.4.4.4
 [/icloudwaf.com/]218.2.2.2 218.4.4.4
 [/icmaxgroup.com/]218.2.2.2 218.4.4.4
@@ -49806,6 +49944,7 @@ https://dns.google/dns-query
 [/idouyinvod.com/]218.2.2.2 218.4.4.4
 [/idouzi.com/]218.2.2.2 218.4.4.4
 [/idoyun.com/]218.2.2.2 218.4.4.4
+[/idphotoplus.com/]218.2.2.2 218.4.4.4
 [/idqqimg.com/]218.2.2.2 218.4.4.4
 [/idreamsky.com/]218.2.2.2 218.4.4.4
 [/idreamsoft.com/]218.2.2.2 218.4.4.4
@@ -50700,6 +50839,7 @@ https://dns.google/dns-query
 [/inewoffice.com/]218.2.2.2 218.4.4.4
 [/inewskeji.com/]218.2.2.2 218.4.4.4
 [/inexbot.com/]218.2.2.2 218.4.4.4
+[/inextos.com/]218.2.2.2 218.4.4.4
 [/infarts.net/]218.2.2.2 218.4.4.4
 [/inferoey.com/]218.2.2.2 218.4.4.4
 [/infertilitybridge.com/]218.2.2.2 218.4.4.4
@@ -50776,6 +50916,7 @@ https://dns.google/dns-query
 [/initah.com/]218.2.2.2 218.4.4.4
 [/initaj.com/]218.2.2.2 218.4.4.4
 [/initak.com/]218.2.2.2 218.4.4.4
+[/initaq.com/]218.2.2.2 218.4.4.4
 [/initba.com/]218.2.2.2 218.4.4.4
 [/initbb.com/]218.2.2.2 218.4.4.4
 [/initcc.com/]218.2.2.2 218.4.4.4
@@ -51076,6 +51217,7 @@ https://dns.google/dns-query
 [/ip-hercules.com/]218.2.2.2 218.4.4.4
 [/ip-soc.com/]218.2.2.2 218.4.4.4
 [/ip.istatmenus.app/]218.2.2.2 218.4.4.4
+[/ip.plus/]218.2.2.2 218.4.4.4
 [/ip008.com/]218.2.2.2 218.4.4.4
 [/ip138.com/]218.2.2.2 218.4.4.4
 [/ip159.com/]218.2.2.2 218.4.4.4
@@ -51251,6 +51393,7 @@ https://dns.google/dns-query
 [/iquanben.net/]218.2.2.2 218.4.4.4
 [/iquanfen.com/]218.2.2.2 218.4.4.4
 [/iquanpai.com/]218.2.2.2 218.4.4.4
+[/iquantumad.com/]218.2.2.2 218.4.4.4
 [/iquanwai.com/]218.2.2.2 218.4.4.4
 [/iquaveizeeru.com/]218.2.2.2 218.4.4.4
 [/ique.com/]218.2.2.2 218.4.4.4
@@ -51703,6 +51846,7 @@ https://dns.google/dns-query
 [/ittribalwo.com/]218.2.2.2 218.4.4.4
 [/ituad.com/]218.2.2.2 218.4.4.4
 [/ituchong.com/]218.2.2.2 218.4.4.4
+[/itui.cc/]218.2.2.2 218.4.4.4
 [/ituite.com/]218.2.2.2 218.4.4.4
 [/iturco.com/]218.2.2.2 218.4.4.4
 [/itutu.tv/]218.2.2.2 218.4.4.4
@@ -52290,6 +52434,7 @@ https://dns.google/dns-query
 [/jcwljt.com/]218.2.2.2 218.4.4.4
 [/jcwpec.com/]218.2.2.2 218.4.4.4
 [/jcwxiao.com/]218.2.2.2 218.4.4.4
+[/jcxdfcyy.com/]218.2.2.2 218.4.4.4
 [/jcxzlsgs.com/]218.2.2.2 218.4.4.4
 [/jcyad.com/]218.2.2.2 218.4.4.4
 [/jcyai.com/]218.2.2.2 218.4.4.4
@@ -52622,6 +52767,7 @@ https://dns.google/dns-query
 [/jfwb.com/]218.2.2.2 218.4.4.4
 [/jfwypay.com/]218.2.2.2 218.4.4.4
 [/jfxiaopaoqi.com/]218.2.2.2 218.4.4.4
+[/jfydg.com/]218.2.2.2 218.4.4.4
 [/jfydgame.com/]218.2.2.2 218.4.4.4
 [/jfyf.cc/]218.2.2.2 218.4.4.4
 [/jfyiyao.com/]218.2.2.2 218.4.4.4
@@ -52856,6 +53002,7 @@ https://dns.google/dns-query
 [/jiamisoft.com/]218.2.2.2 218.4.4.4
 [/jian-jie.com/]218.2.2.2 218.4.4.4
 [/jian.net/]218.2.2.2 218.4.4.4
+[/jian03.com/]218.2.2.2 218.4.4.4
 [/jian27.com/]218.2.2.2 218.4.4.4
 [/jianada-qianzheng.com/]218.2.2.2 218.4.4.4
 [/jianae.com/]218.2.2.2 218.4.4.4
@@ -53116,6 +53263,7 @@ https://dns.google/dns-query
 [/jiapin.com/]218.2.2.2 218.4.4.4
 [/jiapu.tv/]218.2.2.2 218.4.4.4
 [/jiapuvip.com/]218.2.2.2 218.4.4.4
+[/jiaqi789.com/]218.2.2.2 218.4.4.4
 [/jiaqiangban.com/]218.2.2.2 218.4.4.4
 [/jiaqianglian.com/]218.2.2.2 218.4.4.4
 [/jiaqing900.com/]218.2.2.2 218.4.4.4
@@ -53681,6 +53829,7 @@ https://dns.google/dns-query
 [/jingyiyiyao.com/]218.2.2.2 218.4.4.4
 [/jingyougz.com/]218.2.2.2 218.4.4.4
 [/jingytech.com/]218.2.2.2 218.4.4.4
+[/jingyu100.com/]218.2.2.2 218.4.4.4
 [/jingyuan.com/]218.2.2.2 218.4.4.4
 [/jingyuelaw.com/]218.2.2.2 218.4.4.4
 [/jingyuetang.com/]218.2.2.2 218.4.4.4
@@ -53826,6 +53975,7 @@ https://dns.google/dns-query
 [/jinruism.com/]218.2.2.2 218.4.4.4
 [/jinrunsoft.com/]218.2.2.2 218.4.4.4
 [/jins-cn.com/]218.2.2.2 218.4.4.4
+[/jinsan168.com/]218.2.2.2 218.4.4.4
 [/jinsebook.com/]218.2.2.2 218.4.4.4
 [/jinsehuaqin.com/]218.2.2.2 218.4.4.4
 [/jinsenforestry.com/]218.2.2.2 218.4.4.4
@@ -54182,6 +54332,7 @@ https://dns.google/dns-query
 [/jixiecun.com/]218.2.2.2 218.4.4.4
 [/jixiehonghong.com/]218.2.2.2 218.4.4.4
 [/jixiejiaoyu.com/]218.2.2.2 218.4.4.4
+[/jixiemuye.com/]218.2.2.2 218.4.4.4
 [/jixieshi.com/]218.2.2.2 218.4.4.4
 [/jixiew360.com/]218.2.2.2 218.4.4.4
 [/jixiewz.com/]218.2.2.2 218.4.4.4
@@ -54235,6 +54386,7 @@ https://dns.google/dns-query
 [/jj00.com/]218.2.2.2 218.4.4.4
 [/jj0833.com/]218.2.2.2 218.4.4.4
 [/jj20.com/]218.2.2.2 218.4.4.4
+[/jj2195617.com/]218.2.2.2 218.4.4.4
 [/jj59.com/]218.2.2.2 218.4.4.4
 [/jj5agame.com/]218.2.2.2 218.4.4.4
 [/jj831.com/]218.2.2.2 218.4.4.4
@@ -54361,6 +54513,7 @@ https://dns.google/dns-query
 [/jkd360.com/]218.2.2.2 218.4.4.4
 [/jkdsz.com/]218.2.2.2 218.4.4.4
 [/jkelec.com/]218.2.2.2 218.4.4.4
+[/jkgeek.com/]218.2.2.2 218.4.4.4
 [/jkh-ym.com/]218.2.2.2 218.4.4.4
 [/jkhapp.com/]218.2.2.2 218.4.4.4
 [/jkhcfz.com/]218.2.2.2 218.4.4.4
@@ -54672,6 +54825,7 @@ https://dns.google/dns-query
 [/jns168.com/]218.2.2.2 218.4.4.4
 [/jnshijia.com/]218.2.2.2 218.4.4.4
 [/jnshu.com/]218.2.2.2 218.4.4.4
+[/jnsjz.com/]218.2.2.2 218.4.4.4
 [/jnsjzyxh.com/]218.2.2.2 218.4.4.4
 [/jnskqyy.com/]218.2.2.2 218.4.4.4
 [/jnslyy.com/]218.2.2.2 218.4.4.4
@@ -54973,6 +55127,7 @@ https://dns.google/dns-query
 [/jpyoo.com/]218.2.2.2 218.4.4.4
 [/jpzx.net/]218.2.2.2 218.4.4.4
 [/jpzy01.com/]218.2.2.2 218.4.4.4
+[/jq2020.net/]218.2.2.2 218.4.4.4
 [/jq22.com/]218.2.2.2 218.4.4.4
 [/jq33.com/]218.2.2.2 218.4.4.4
 [/jqahg.com/]218.2.2.2 218.4.4.4
@@ -55406,6 +55561,7 @@ https://dns.google/dns-query
 [/jsphp.net/]218.2.2.2 218.4.4.4
 [/jspoh.com/]218.2.2.2 218.4.4.4
 [/jspp.com/]218.2.2.2 218.4.4.4
+[/jspvz.com/]218.2.2.2 218.4.4.4
 [/jspwc.com/]218.2.2.2 218.4.4.4
 [/jspxcms.com/]218.2.2.2 218.4.4.4
 [/jsq886.com/]218.2.2.2 218.4.4.4
@@ -55706,6 +55862,7 @@ https://dns.google/dns-query
 [/jtn.com/]218.2.2.2 218.4.4.4
 [/jtnsh.com/]218.2.2.2 218.4.4.4
 [/jto8.com/]218.2.2.2 218.4.4.4
+[/jtp123.com/]218.2.2.2 218.4.4.4
 [/jtpipeline.com/]218.2.2.2 218.4.4.4
 [/jtrauto.com/]218.2.2.2 218.4.4.4
 [/jtrobots.com/]218.2.2.2 218.4.4.4
@@ -55731,6 +55888,7 @@ https://dns.google/dns-query
 [/juaiyou.com/]218.2.2.2 218.4.4.4
 [/juandou.com/]218.2.2.2 218.4.4.4
 [/juangua.com/]218.2.2.2 218.4.4.4
+[/juantui.com/]218.2.2.2 218.4.4.4
 [/juanyunkeji.com/]218.2.2.2 218.4.4.4
 [/juaq.com/]218.2.2.2 218.4.4.4
 [/jubaihuijia.com/]218.2.2.2 218.4.4.4
@@ -56202,6 +56360,7 @@ https://dns.google/dns-query
 [/jxep.net/]218.2.2.2 218.4.4.4
 [/jxetv.com/]218.2.2.2 218.4.4.4
 [/jxey.com/]218.2.2.2 218.4.4.4
+[/jxfcrx.com/]218.2.2.2 218.4.4.4
 [/jxfeng.com/]218.2.2.2 218.4.4.4
 [/jxfls.com/]218.2.2.2 218.4.4.4
 [/jxfrjs.com/]218.2.2.2 218.4.4.4
@@ -56529,6 +56688,7 @@ https://dns.google/dns-query
 [/jzgczz.com/]218.2.2.2 218.4.4.4
 [/jzgede.com/]218.2.2.2 218.4.4.4
 [/jzggzy.com/]218.2.2.2 218.4.4.4
+[/jzgj.com/]218.2.2.2 218.4.4.4
 [/jzgjbus.com/]218.2.2.2 218.4.4.4
 [/jzgjj.com/]218.2.2.2 218.4.4.4
 [/jzhfz.com/]218.2.2.2 218.4.4.4
@@ -56725,6 +56885,7 @@ https://dns.google/dns-query
 [/kaiqiancq.com/]218.2.2.2 218.4.4.4
 [/kaiqiu.cc/]218.2.2.2 218.4.4.4
 [/kaiquan.com/]218.2.2.2 218.4.4.4
+[/kairende.com/]218.2.2.2 218.4.4.4
 [/kairui.tech/]218.2.2.2 218.4.4.4
 [/kairunjinshu.com/]218.2.2.2 218.4.4.4
 [/kairunkeji.com/]218.2.2.2 218.4.4.4
@@ -56819,6 +56980,7 @@ https://dns.google/dns-query
 [/kamaqc.com/]218.2.2.2 218.4.4.4
 [/kamenwang.com/]218.2.2.2 218.4.4.4
 [/kamfat.net/]218.2.2.2 218.4.4.4
+[/kamhing.net/]218.2.2.2 218.4.4.4
 [/kami.vip/]218.2.2.2 218.4.4.4
 [/kami5.com/]218.2.2.2 218.4.4.4
 [/kamidox.com/]218.2.2.2 218.4.4.4
@@ -56962,6 +57124,7 @@ https://dns.google/dns-query
 [/kantu.com/]218.2.2.2 218.4.4.4
 [/kanwuye.com/]218.2.2.2 218.4.4.4
 [/kanwz.net/]218.2.2.2 218.4.4.4
+[/kanxiquan.com/]218.2.2.2 218.4.4.4
 [/kanxue.com/]218.2.2.2 218.4.4.4
 [/kanyaji.com/]218.2.2.2 218.4.4.4
 [/kanyijie.com/]218.2.2.2 218.4.4.4
@@ -57228,6 +57391,7 @@ https://dns.google/dns-query
 [/kefoo.com/]218.2.2.2 218.4.4.4
 [/kefu01.com/]218.2.2.2 218.4.4.4
 [/kefutoutiao.com/]218.2.2.2 218.4.4.4
+[/kefuzixun.net/]218.2.2.2 218.4.4.4
 [/kefuzu.com/]218.2.2.2 218.4.4.4
 [/kege.com/]218.2.2.2 218.4.4.4
 [/kehaohao.com/]218.2.2.2 218.4.4.4
@@ -57825,6 +57989,7 @@ https://dns.google/dns-query
 [/klclear.com/]218.2.2.2 218.4.4.4
 [/klcsb.com/]218.2.2.2 218.4.4.4
 [/kldhq.com/]218.2.2.2 218.4.4.4
+[/kldshkj.com/]218.2.2.2 218.4.4.4
 [/klhpw.com/]218.2.2.2 218.4.4.4
 [/klhuyan.com/]218.2.2.2 218.4.4.4
 [/klicen.com/]218.2.2.2 218.4.4.4
@@ -58026,6 +58191,7 @@ https://dns.google/dns-query
 [/kongjun.com/]218.2.2.2 218.4.4.4
 [/kongkangroup.com/]218.2.2.2 218.4.4.4
 [/kongming-inc.com/]218.2.2.2 218.4.4.4
+[/kongpm.com/]218.2.2.2 218.4.4.4
 [/kongqinengrebeng.com/]218.2.2.2 218.4.4.4
 [/kongquecheng.com/]218.2.2.2 218.4.4.4
 [/kongqueyuzd.cc/]218.2.2.2 218.4.4.4
@@ -58199,6 +58365,7 @@ https://dns.google/dns-query
 [/ksbao.com/]218.2.2.2 218.4.4.4
 [/ksbbs.com/]218.2.2.2 218.4.4.4
 [/ksbm.com/]218.2.2.2 218.4.4.4
+[/ksbzjx.net/]218.2.2.2 218.4.4.4
 [/ksc-test.com/]218.2.2.2 218.4.4.4
 [/kscac.com/]218.2.2.2 218.4.4.4
 [/kscbigdata.cloud/]218.2.2.2 218.4.4.4
@@ -58215,6 +58382,7 @@ https://dns.google/dns-query
 [/kseibitools.com/]218.2.2.2 218.4.4.4
 [/ksepton.com/]218.2.2.2 218.4.4.4
 [/ksfang.com/]218.2.2.2 218.4.4.4
+[/ksgaopin.com/]218.2.2.2 218.4.4.4
 [/kshahn.com/]218.2.2.2 218.4.4.4
 [/kshaoteng.com/]218.2.2.2 218.4.4.4
 [/kshfgf.com/]218.2.2.2 218.4.4.4
@@ -58604,6 +58772,7 @@ https://dns.google/dns-query
 [/kulengvps.com/]218.2.2.2 218.4.4.4
 [/kuletco.com/]218.2.2.2 218.4.4.4
 [/kuli.ren/]218.2.2.2 218.4.4.4
+[/kuli8.com/]218.2.2.2 218.4.4.4
 [/kuliwang.net/]218.2.2.2 218.4.4.4
 [/kuman.com/]218.2.2.2 218.4.4.4
 [/kumao.vip/]218.2.2.2 218.4.4.4
@@ -59736,6 +59905,7 @@ https://dns.google/dns-query
 [/leadvsion.com/]218.2.2.2 218.4.4.4
 [/leadway-china.com/]218.2.2.2 218.4.4.4
 [/leadwaytk.com/]218.2.2.2 218.4.4.4
+[/leadweigh.com/]218.2.2.2 218.4.4.4
 [/leadyo.com/]218.2.2.2 218.4.4.4
 [/leadzees.com/]218.2.2.2 218.4.4.4
 [/leaferjs.com/]218.2.2.2 218.4.4.4
@@ -60343,6 +60513,7 @@ https://dns.google/dns-query
 [/lianfawy.com/]218.2.2.2 218.4.4.4
 [/liang520.com/]218.2.2.2 218.4.4.4
 [/liangc.com/]218.2.2.2 218.4.4.4
+[/liangcaisz.com/]218.2.2.2 218.4.4.4
 [/liangchan.net/]218.2.2.2 218.4.4.4
 [/liangchanba.com/]218.2.2.2 218.4.4.4
 [/liangduapp.com/]218.2.2.2 218.4.4.4
@@ -61634,6 +61805,7 @@ https://dns.google/dns-query
 [/lntongyu.com/]218.2.2.2 218.4.4.4
 [/lntvu.com/]218.2.2.2 218.4.4.4
 [/lntycp.com/]218.2.2.2 218.4.4.4
+[/lntydl.com/]218.2.2.2 218.4.4.4
 [/lnvipsoft.com/]218.2.2.2 218.4.4.4
 [/lnwish.com/]218.2.2.2 218.4.4.4
 [/lnwoo.com/]218.2.2.2 218.4.4.4
@@ -62271,6 +62443,7 @@ https://dns.google/dns-query
 [/ltxys.com/]218.2.2.2 218.4.4.4
 [/ltxzz.com/]218.2.2.2 218.4.4.4
 [/lty.fun/]218.2.2.2 218.4.4.4
+[/lty02.com/]218.2.2.2 218.4.4.4
 [/ltyears.com/]218.2.2.2 218.4.4.4
 [/ltzsjt.com/]218.2.2.2 218.4.4.4
 [/ltzxw.com/]218.2.2.2 218.4.4.4
@@ -62292,6 +62465,7 @@ https://dns.google/dns-query
 [/luastudio.net/]218.2.2.2 218.4.4.4
 [/luatos.com/]218.2.2.2 218.4.4.4
 [/luba360.com/]218.2.2.2 218.4.4.4
+[/lubair.com/]218.2.2.2 218.4.4.4
 [/lubandata.com/]218.2.2.2 218.4.4.4
 [/lubanjianye.com/]218.2.2.2 218.4.4.4
 [/lubanlebiao.com/]218.2.2.2 218.4.4.4
@@ -63161,6 +63335,7 @@ https://dns.google/dns-query
 [/lzygpm.com/]218.2.2.2 218.4.4.4
 [/lzyhcy.com/]218.2.2.2 218.4.4.4
 [/lzyhdyf.com/]218.2.2.2 218.4.4.4
+[/lzyhzx.com/]218.2.2.2 218.4.4.4
 [/lzyisheng.com/]218.2.2.2 218.4.4.4
 [/lzyizhu.com/]218.2.2.2 218.4.4.4
 [/lzylkf.com/]218.2.2.2 218.4.4.4
@@ -63202,6 +63377,7 @@ https://dns.google/dns-query
 [/m.sohu/]218.2.2.2 218.4.4.4
 [/m1.run/]218.2.2.2 218.4.4.4
 [/m123.com/]218.2.2.2 218.4.4.4
+[/m12315.com/]218.2.2.2 218.4.4.4
 [/m1315.com/]218.2.2.2 218.4.4.4
 [/m186.net/]218.2.2.2 218.4.4.4
 [/m188.com/]218.2.2.2 218.4.4.4
@@ -63905,6 +64081,7 @@ https://dns.google/dns-query
 [/maxamchina.com/]218.2.2.2 218.4.4.4
 [/maxd.cloud/]218.2.2.2 218.4.4.4
 [/maxdo.net/]218.2.2.2 218.4.4.4
+[/maxdo.tech/]218.2.2.2 218.4.4.4
 [/maxesads.com/]218.2.2.2 218.4.4.4
 [/maxfinesthair.com/]218.2.2.2 218.4.4.4
 [/maxfor-tool.com/]218.2.2.2 218.4.4.4
@@ -63933,6 +64110,7 @@ https://dns.google/dns-query
 [/maxonesoft.com/]218.2.2.2 218.4.4.4
 [/maxowen.com/]218.2.2.2 218.4.4.4
 [/maxpda.com/]218.2.2.2 218.4.4.4
+[/maxproscreen.com/]218.2.2.2 218.4.4.4
 [/maxqiu.com/]218.2.2.2 218.4.4.4
 [/maxreader.la/]218.2.2.2 218.4.4.4
 [/maxreader.net/]218.2.2.2 218.4.4.4
@@ -64049,6 +64227,7 @@ https://dns.google/dns-query
 [/mc91.com/]218.2.2.2 218.4.4.4
 [/mc9y.net/]218.2.2.2 218.4.4.4
 [/mcake.com/]218.2.2.2 218.4.4.4
+[/mcall.im/]218.2.2.2 218.4.4.4
 [/mcar.vip/]218.2.2.2 218.4.4.4
 [/mcbaas.work/]218.2.2.2 218.4.4.4
 [/mcbang.com/]218.2.2.2 218.4.4.4
@@ -64079,6 +64258,7 @@ https://dns.google/dns-query
 [/mcgyaht1023.com/]218.2.2.2 218.4.4.4
 [/mchifi.com/]218.2.2.2 218.4.4.4
 [/mchim.net/]218.2.2.2 218.4.4.4
+[/mchlight.com/]218.2.2.2 218.4.4.4
 [/mchost.guru/]218.2.2.2 218.4.4.4
 [/mchpk.com/]218.2.2.2 218.4.4.4
 [/mchuiji.com/]218.2.2.2 218.4.4.4
@@ -64105,6 +64285,7 @@ https://dns.google/dns-query
 [/mcpmaid.com/]218.2.2.2 218.4.4.4
 [/mcq93.app/]218.2.2.2 218.4.4.4
 [/mcqy.net/]218.2.2.2 218.4.4.4
+[/mcrmb.com/]218.2.2.2 218.4.4.4
 [/mcsafebox.com/]218.2.2.2 218.4.4.4
 [/mcsgis.com/]218.2.2.2 218.4.4.4
 [/mcshuo.com/]218.2.2.2 218.4.4.4
@@ -64148,6 +64329,7 @@ https://dns.google/dns-query
 [/mdict.net/]218.2.2.2 218.4.4.4
 [/mditie.com/]218.2.2.2 218.4.4.4
 [/mdjgjjt.com/]218.2.2.2 218.4.4.4
+[/mdkchat.com/]218.2.2.2 218.4.4.4
 [/mdkj1.com/]218.2.2.2 218.4.4.4
 [/mdl.ink/]218.2.2.2 218.4.4.4
 [/mdm.plus/]218.2.2.2 218.4.4.4
@@ -64165,6 +64347,7 @@ https://dns.google/dns-query
 [/mdsin.com/]218.2.2.2 218.4.4.4
 [/mdsmos.com/]218.2.2.2 218.4.4.4
 [/mdsyzx.com/]218.2.2.2 218.4.4.4
+[/mdtmcu.com/]218.2.2.2 218.4.4.4
 [/mdtu.com/]218.2.2.2 218.4.4.4
 [/mdupc.com/]218.2.2.2 218.4.4.4
 [/mdvdns.com/]218.2.2.2 218.4.4.4
@@ -64268,6 +64451,7 @@ https://dns.google/dns-query
 [/meeting666.com/]218.2.2.2 218.4.4.4
 [/meetingmeet.com/]218.2.2.2 218.4.4.4
 [/meetingrj.com/]218.2.2.2 218.4.4.4
+[/meetkb.com/]218.2.2.2 218.4.4.4
 [/meetlawyer.com/]218.2.2.2 218.4.4.4
 [/meetsite.com/]218.2.2.2 218.4.4.4
 [/meetsocial.com/]218.2.2.2 218.4.4.4
@@ -64553,6 +64737,7 @@ https://dns.google/dns-query
 [/meiye.art/]218.2.2.2 218.4.4.4
 [/meiyedana.com/]218.2.2.2 218.4.4.4
 [/meiyi.ai/]218.2.2.2 218.4.4.4
+[/meiyingpu.com/]218.2.2.2 218.4.4.4
 [/meiyixinrui.com/]218.2.2.2 218.4.4.4
 [/meiyou.com/]218.2.2.2 218.4.4.4
 [/meiyue.com/]218.2.2.2 218.4.4.4
@@ -64665,6 +64850,8 @@ https://dns.google/dns-query
 [/menxue.com/]218.2.2.2 218.4.4.4
 [/menyuannews.com/]218.2.2.2 218.4.4.4
 [/meoo.com/]218.2.2.2 218.4.4.4
+[/meoo.host/]218.2.2.2 218.4.4.4
+[/meoo.xyz/]218.2.2.2 218.4.4.4
 [/meoof-pet.com/]218.2.2.2 218.4.4.4
 [/meovse.com/]218.2.2.2 218.4.4.4
 [/meow.plus/]218.2.2.2 218.4.4.4
@@ -64768,6 +64955,7 @@ https://dns.google/dns-query
 [/mfcyun.com/]218.2.2.2 218.4.4.4
 [/mfdl666.com/]218.2.2.2 218.4.4.4
 [/mfdns.com/]218.2.2.2 218.4.4.4
+[/mfdqsc.com/]218.2.2.2 218.4.4.4
 [/mfdzqj.com/]218.2.2.2 218.4.4.4
 [/mfexcel.com/]218.2.2.2 218.4.4.4
 [/mfg-magnets.com/]218.2.2.2 218.4.4.4
@@ -65066,6 +65254,7 @@ https://dns.google/dns-query
 [/midiwo.com/]218.2.2.2 218.4.4.4
 [/midiyinyue.com/]218.2.2.2 218.4.4.4
 [/midlele.com/]218.2.2.2 218.4.4.4
+[/midoci.com/]218.2.2.2 218.4.4.4
 [/midonglab.com/]218.2.2.2 218.4.4.4
 [/midongtech.com/]218.2.2.2 218.4.4.4
 [/midongtech.xyz/]218.2.2.2 218.4.4.4
@@ -65096,6 +65285,7 @@ https://dns.google/dns-query
 [/mifengzhibo.com/]218.2.2.2 218.4.4.4
 [/mifispark.com/]218.2.2.2 218.4.4.4
 [/mifon.com/]218.2.2.2 218.4.4.4
+[/mifosy.com/]218.2.2.2 218.4.4.4
 [/mifpay.com/]218.2.2.2 218.4.4.4
 [/mifwl.com/]218.2.2.2 218.4.4.4
 [/migames.com/]218.2.2.2 218.4.4.4
@@ -65484,6 +65674,7 @@ https://dns.google/dns-query
 [/mistfront.com/]218.2.2.2 218.4.4.4
 [/misuland.com/]218.2.2.2 218.4.4.4
 [/misunly.com/]218.2.2.2 218.4.4.4
+[/mitai-link.com/]218.2.2.2 218.4.4.4
 [/mitalk.com/]218.2.2.2 218.4.4.4
 [/mitang.com/]218.2.2.2 218.4.4.4
 [/mitangtuan.com/]218.2.2.2 218.4.4.4
@@ -65788,6 +65979,7 @@ https://dns.google/dns-query
 [/mobartsgame.com/]218.2.2.2 218.4.4.4
 [/mobawan.com/]218.2.2.2 218.4.4.4
 [/mobayx.com/]218.2.2.2 218.4.4.4
+[/mobcb.com/]218.2.2.2 218.4.4.4
 [/mobcells.com/]218.2.2.2 218.4.4.4
 [/mobcloud.mobi/]218.2.2.2 218.4.4.4
 [/mobeehome.com/]218.2.2.2 218.4.4.4
@@ -66018,6 +66210,7 @@ https://dns.google/dns-query
 [/molwater.com/]218.2.2.2 218.4.4.4
 [/molygoo.com/]218.2.2.2 218.4.4.4
 [/moma-hz.com/]218.2.2.2 218.4.4.4
+[/momabj.com/]218.2.2.2 218.4.4.4
 [/mombuybuy.com/]218.2.2.2 218.4.4.4
 [/moment.fun/]218.2.2.2 218.4.4.4
 [/momentad.com/]218.2.2.2 218.4.4.4
@@ -66712,6 +66905,7 @@ https://dns.google/dns-query
 [/mxklchina.com/]218.2.2.2 218.4.4.4
 [/mxmem.com/]218.2.2.2 218.4.4.4
 [/mxnavi.com/]218.2.2.2 218.4.4.4
+[/mxnf.asia/]218.2.2.2 218.4.4.4
 [/mxnxs.com/]218.2.2.2 218.4.4.4
 [/mxnzp.com/]218.2.2.2 218.4.4.4
 [/mxomo.com/]218.2.2.2 218.4.4.4
@@ -66859,6 +67053,7 @@ https://dns.google/dns-query
 [/myezdns.com/]218.2.2.2 218.4.4.4
 [/myfans.cc/]218.2.2.2 218.4.4.4
 [/myfdmg.com/]218.2.2.2 218.4.4.4
+[/myfenghua.com/]218.2.2.2 218.4.4.4
 [/myfhospital.com/]218.2.2.2 218.4.4.4
 [/myfilm.cc/]218.2.2.2 218.4.4.4
 [/myfrfr.com/]218.2.2.2 218.4.4.4
@@ -67324,6 +67519,7 @@ https://dns.google/dns-query
 [/nanlingwater.com/]218.2.2.2 218.4.4.4
 [/nanlingzr.com/]218.2.2.2 218.4.4.4
 [/nanlong.com/]218.2.2.2 218.4.4.4
+[/nanloushan.com/]218.2.2.2 218.4.4.4
 [/nanmodesign.com/]218.2.2.2 218.4.4.4
 [/nanning-marathon.com/]218.2.2.2 218.4.4.4
 [/nanninginfo.com/]218.2.2.2 218.4.4.4
@@ -68033,6 +68229,7 @@ https://dns.google/dns-query
 [/newzgc.com/]218.2.2.2 218.4.4.4
 [/newzhizao.com/]218.2.2.2 218.4.4.4
 [/newzhongyuan.com/]218.2.2.2 218.4.4.4
+[/nexanl.com/]218.2.2.2 218.4.4.4
 [/nexaparty.com/]218.2.2.2 218.4.4.4
 [/nexmoe.com/]218.2.2.2 218.4.4.4
 [/next-bei.com/]218.2.2.2 218.4.4.4
@@ -68068,6 +68265,7 @@ https://dns.google/dns-query
 [/nfcreader.net/]218.2.2.2 218.4.4.4
 [/nfcs-med.com/]218.2.2.2 218.4.4.4
 [/nfcs-medical.com/]218.2.2.2 218.4.4.4
+[/nfdpla.com/]218.2.2.2 218.4.4.4
 [/nfdx.net/]218.2.2.2 218.4.4.4
 [/nffq.net/]218.2.2.2 218.4.4.4
 [/nffund.com/]218.2.2.2 218.4.4.4
@@ -68566,6 +68764,7 @@ https://dns.google/dns-query
 [/njhddl.com/]218.2.2.2 218.4.4.4
 [/njhdzy.com/]218.2.2.2 218.4.4.4
 [/njhengda.com/]218.2.2.2 218.4.4.4
+[/njherun.com/]218.2.2.2 218.4.4.4
 [/njheyang.com/]218.2.2.2 218.4.4.4
 [/njhgame.com/]218.2.2.2 218.4.4.4
 [/njhightech.com/]218.2.2.2 218.4.4.4
@@ -68736,6 +68935,7 @@ https://dns.google/dns-query
 [/njruisen.com/]218.2.2.2 218.4.4.4
 [/njrunk.com/]218.2.2.2 218.4.4.4
 [/njrzkj.com/]218.2.2.2 218.4.4.4
+[/njs2yy.com/]218.2.2.2 218.4.4.4
 [/njsadz.com/]218.2.2.2 218.4.4.4
 [/njsanhui.com/]218.2.2.2 218.4.4.4
 [/njsdjt.com/]218.2.2.2 218.4.4.4
@@ -69787,6 +69987,7 @@ https://dns.google/dns-query
 [/nwdlink.com/]218.2.2.2 218.4.4.4
 [/nweon.com/]218.2.2.2 218.4.4.4
 [/nwifyuz.com/]218.2.2.2 218.4.4.4
+[/nwiztech.com/]218.2.2.2 218.4.4.4
 [/nwncd.com/]218.2.2.2 218.4.4.4
 [/nwovo.com/]218.2.2.2 218.4.4.4
 [/nwshotel.com/]218.2.2.2 218.4.4.4
@@ -69871,6 +70072,7 @@ https://dns.google/dns-query
 [/nyshui.com/]218.2.2.2 218.4.4.4
 [/nysswq.com/]218.2.2.2 218.4.4.4
 [/nywz.net/]218.2.2.2 218.4.4.4
+[/nyxcuy.com/]218.2.2.2 218.4.4.4
 [/nyxg.vip/]218.2.2.2 218.4.4.4
 [/nyxgs.com/]218.2.2.2 218.4.4.4
 [/nyxiecheng.com/]218.2.2.2 218.4.4.4
@@ -70081,6 +70283,7 @@ https://dns.google/dns-query
 [/ofdreader.net/]218.2.2.2 218.4.4.4
 [/offcn.com/]218.2.2.2 218.4.4.4
 [/offer-wow.com/]218.2.2.2 218.4.4.4
+[/offermore.cc/]218.2.2.2 218.4.4.4
 [/offerpluscn.com/]218.2.2.2 218.4.4.4
 [/offersloc.com/]218.2.2.2 218.4.4.4
 [/offerstrack.net/]218.2.2.2 218.4.4.4
@@ -70115,6 +70318,7 @@ https://dns.google/dns-query
 [/ogame3.com/]218.2.2.2 218.4.4.4
 [/ogaoxiao.com/]218.2.2.2 218.4.4.4
 [/ogccdn.com/]218.2.2.2 218.4.4.4
+[/oge6.com/]218.2.2.2 218.4.4.4
 [/ogl-dragon.com/]218.2.2.2 218.4.4.4
 [/oh100.com/]218.2.2.2 218.4.4.4
 [/oh4k.com/]218.2.2.2 218.4.4.4
@@ -70309,6 +70513,7 @@ https://dns.google/dns-query
 [/omowork.com/]218.2.2.2 218.4.4.4
 [/ompchina.net/]218.2.2.2 218.4.4.4
 [/ompower.cc/]218.2.2.2 218.4.4.4
+[/omq.cc/]218.2.2.2 218.4.4.4
 [/omronmed.com/]218.2.2.2 218.4.4.4
 [/oms-elevator.com/]218.2.2.2 218.4.4.4
 [/omsheji.com/]218.2.2.2 218.4.4.4
@@ -70681,6 +70886,7 @@ https://dns.google/dns-query
 [/orggd.com/]218.2.2.2 218.4.4.4
 [/orgleaf.com/]218.2.2.2 218.4.4.4
 [/oriemac.com/]218.2.2.2 218.4.4.4
+[/orient-chip.com/]218.2.2.2 218.4.4.4
 [/orient-fund.com/]218.2.2.2 218.4.4.4
 [/orient-opto.com/]218.2.2.2 218.4.4.4
 [/orient-safety.com/]218.2.2.2 218.4.4.4
@@ -71602,6 +71808,7 @@ https://dns.google/dns-query
 [/pdeepmatrix.com/]218.2.2.2 218.4.4.4
 [/pdf.la/]218.2.2.2 218.4.4.4
 [/pdf00.com/]218.2.2.2 218.4.4.4
+[/pdf001.com/]218.2.2.2 218.4.4.4
 [/pdf1122.com/]218.2.2.2 218.4.4.4
 [/pdfangchan.com/]218.2.2.2 218.4.4.4
 [/pdfbianji.com/]218.2.2.2 218.4.4.4
@@ -71929,6 +72136,7 @@ https://dns.google/dns-query
 [/photops.com/]218.2.2.2 218.4.4.4
 [/photosks.vip/]218.2.2.2 218.4.4.4
 [/photozoomchina.com/]218.2.2.2 218.4.4.4
+[/php-asp.net/]218.2.2.2 218.4.4.4
 [/php-note.com/]218.2.2.2 218.4.4.4
 [/php100.com/]218.2.2.2 218.4.4.4
 [/php168.com/]218.2.2.2 218.4.4.4
@@ -72485,6 +72693,7 @@ https://dns.google/dns-query
 [/pnty1688.com/]218.2.2.2 218.4.4.4
 [/pnwww.com/]218.2.2.2 218.4.4.4
 [/pnzpw.com/]218.2.2.2 218.4.4.4
+[/pnzxyy.com/]218.2.2.2 218.4.4.4
 [/po.co/]218.2.2.2 218.4.4.4
 [/po7ryumvkx34.com/]218.2.2.2 218.4.4.4
 [/pobaby.net/]218.2.2.2 218.4.4.4
@@ -72571,6 +72780,7 @@ https://dns.google/dns-query
 [/pooioo.com/]218.2.2.2 218.4.4.4
 [/pook.com/]218.2.2.2 218.4.4.4
 [/pookcdn.com/]218.2.2.2 218.4.4.4
+[/pookcdn.net/]218.2.2.2 218.4.4.4
 [/pooketools.com/]218.2.2.2 218.4.4.4
 [/poorren.com/]218.2.2.2 218.4.4.4
 [/pop-bags.com/]218.2.2.2 218.4.4.4
@@ -72768,6 +72978,7 @@ https://dns.google/dns-query
 [/pppoevps.com/]218.2.2.2 218.4.4.4
 [/ppppic.com/]218.2.2.2 218.4.4.4
 [/ppppoints.com/]218.2.2.2 218.4.4.4
+[/ppqrrs.com/]218.2.2.2 218.4.4.4
 [/pprxcdn.com/]218.2.2.2 218.4.4.4
 [/pps.tv/]218.2.2.2 218.4.4.4
 [/ppsao.com/]218.2.2.2 218.4.4.4
@@ -72847,6 +73058,7 @@ https://dns.google/dns-query
 [/prayaya.com/]218.2.2.2 218.4.4.4
 [/prayaya.net/]218.2.2.2 218.4.4.4
 [/prayaya.org/]218.2.2.2 218.4.4.4
+[/prcchint.com/]218.2.2.2 218.4.4.4
 [/prcedu.com/]218.2.2.2 218.4.4.4
 [/prcee.org/]218.2.2.2 218.4.4.4
 [/prcfe.com/]218.2.2.2 218.4.4.4
@@ -72947,6 +73159,7 @@ https://dns.google/dns-query
 [/prs-motion.com/]218.2.2.2 218.4.4.4
 [/prsgl.com/]218.2.2.2 218.4.4.4
 [/prteco.com/]218.2.2.2 218.4.4.4
+[/prts.plus/]218.2.2.2 218.4.4.4
 [/prts.wiki/]218.2.2.2 218.4.4.4
 [/prtscttposty.cfd/]218.2.2.2 218.4.4.4
 [/prttech.com/]218.2.2.2 218.4.4.4
@@ -73052,6 +73265,7 @@ https://dns.google/dns-query
 [/ptyoubike.com/]218.2.2.2 218.4.4.4
 [/ptyqm.com/]218.2.2.2 218.4.4.4
 [/ptyx.com/]218.2.2.2 218.4.4.4
+[/ptzwdt.com/]218.2.2.2 218.4.4.4
 [/pu-bg.com/]218.2.2.2 218.4.4.4
 [/pu-ling.com/]218.2.2.2 218.4.4.4
 [/pu1kj.com/]218.2.2.2 218.4.4.4
@@ -73205,6 +73419,7 @@ https://dns.google/dns-query
 [/pvc-diban.net/]218.2.2.2 218.4.4.4
 [/pvc123.com/]218.2.2.2 218.4.4.4
 [/pvpin.com/]218.2.2.2 218.4.4.4
+[/pvz1.com/]218.2.2.2 218.4.4.4
 [/pvzbaike.com/]218.2.2.2 218.4.4.4
 [/pw-partners.com/]218.2.2.2 218.4.4.4
 [/pw1999.com/]218.2.2.2 218.4.4.4
@@ -73260,6 +73475,7 @@ https://dns.google/dns-query
 [/py3.io/]218.2.2.2 218.4.4.4
 [/py3study.com/]218.2.2.2 218.4.4.4
 [/py94.com/]218.2.2.2 218.4.4.4
+[/pyamc.com/]218.2.2.2 218.4.4.4
 [/pyasfunds.com/]218.2.2.2 218.4.4.4
 [/pybrother.com/]218.2.2.2 218.4.4.4
 [/pychina.com/]218.2.2.2 218.4.4.4
@@ -73847,6 +74063,7 @@ https://dns.google/dns-query
 [/qiandaren.com/]218.2.2.2 218.4.4.4
 [/qiandd.com/]218.2.2.2 218.4.4.4
 [/qiandeups.com/]218.2.2.2 218.4.4.4
+[/qiandianre.com/]218.2.2.2 218.4.4.4
 [/qianduan.com/]218.2.2.2 218.4.4.4
 [/qianfan.app/]218.2.2.2 218.4.4.4
 [/qianfan.tv/]218.2.2.2 218.4.4.4
@@ -73940,6 +74157,7 @@ https://dns.google/dns-query
 [/qianshuixing.com/]218.2.2.2 218.4.4.4
 [/qiansiw.com/]218.2.2.2 218.4.4.4
 [/qiant.net/]218.2.2.2 218.4.4.4
+[/qiantangcredit.com/]218.2.2.2 218.4.4.4
 [/qiantangke.com/]218.2.2.2 218.4.4.4
 [/qiantucdn.com/]218.2.2.2 218.4.4.4
 [/qianuni.com/]218.2.2.2 218.4.4.4
@@ -74563,6 +74781,7 @@ https://dns.google/dns-query
 [/qiuzhang.com/]218.2.2.2 218.4.4.4
 [/qiuzhijiangtang.com/]218.2.2.2 218.4.4.4
 [/qiuziti.com/]218.2.2.2 218.4.4.4
+[/qiwang199.com/]218.2.2.2 218.4.4.4
 [/qiwang2025.com/]218.2.2.2 218.4.4.4
 [/qiwangming.com/]218.2.2.2 218.4.4.4
 [/qiwei.com/]218.2.2.2 218.4.4.4
@@ -74679,6 +74898,7 @@ https://dns.google/dns-query
 [/qjsalia.com/]218.2.2.2 218.4.4.4
 [/qjsalib.com/]218.2.2.2 218.4.4.4
 [/qjsb88.com/]218.2.2.2 218.4.4.4
+[/qjsekq.com/]218.2.2.2 218.4.4.4
 [/qjslngy.com/]218.2.2.2 218.4.4.4
 [/qjsmartech.com/]218.2.2.2 218.4.4.4
 [/qjtourism.com/]218.2.2.2 218.4.4.4
@@ -74780,6 +75000,7 @@ https://dns.google/dns-query
 [/qmht.mobi/]218.2.2.2 218.4.4.4
 [/qmjianli.com/]218.2.2.2 218.4.4.4
 [/qmniu.com/]218.2.2.2 218.4.4.4
+[/qmpx.net/]218.2.2.2 218.4.4.4
 [/qmqm.net/]218.2.2.2 218.4.4.4
 [/qmrms.com/]218.2.2.2 218.4.4.4
 [/qmsea.com/]218.2.2.2 218.4.4.4
@@ -74952,6 +75173,7 @@ https://dns.google/dns-query
 [/qqlivepull.seedata.top/]218.2.2.2 218.4.4.4
 [/qqmail.com/]218.2.2.2 218.4.4.4
 [/qqmail.email/]218.2.2.2 218.4.4.4
+[/qqmaoyi.com/]218.2.2.2 218.4.4.4
 [/qqmapyx.com/]218.2.2.2 218.4.4.4
 [/qqmc.com/]218.2.2.2 218.4.4.4
 [/qqmcc.org/]218.2.2.2 218.4.4.4
@@ -75250,6 +75472,7 @@ https://dns.google/dns-query
 [/quanzhi.com/]218.2.2.2 218.4.4.4
 [/quanzhifu.net/]218.2.2.2 218.4.4.4
 [/quanzhougastronomy.com/]218.2.2.2 218.4.4.4
+[/quanzhua.com/]218.2.2.2 218.4.4.4
 [/quanziapp.com/]218.2.2.2 218.4.4.4
 [/quaolai.com/]218.2.2.2 218.4.4.4
 [/quarkbook.com/]218.2.2.2 218.4.4.4
@@ -75720,6 +75943,7 @@ https://dns.google/dns-query
 [/qwqk.net/]218.2.2.2 218.4.4.4
 [/qwqoffice.com/]218.2.2.2 218.4.4.4
 [/qwrmt.com/]218.2.2.2 218.4.4.4
+[/qwryi.com/]218.2.2.2 218.4.4.4
 [/qwsy.com/]218.2.2.2 218.4.4.4
 [/qwuylnl.com/]218.2.2.2 218.4.4.4
 [/qwwz.com/]218.2.2.2 218.4.4.4
@@ -75868,6 +76092,7 @@ https://dns.google/dns-query
 [/qz-jk.com/]218.2.2.2 218.4.4.4
 [/qz100.com/]218.2.2.2 218.4.4.4
 [/qz123.com/]218.2.2.2 218.4.4.4
+[/qz588.com/]218.2.2.2 218.4.4.4
 [/qz5z.com/]218.2.2.2 218.4.4.4
 [/qz828.com/]218.2.2.2 218.4.4.4
 [/qz96811.com/]218.2.2.2 218.4.4.4
@@ -76138,6 +76363,7 @@ https://dns.google/dns-query
 [/raverstern.site/]218.2.2.2 218.4.4.4
 [/rawanfa.com/]218.2.2.2 218.4.4.4
 [/rawchen.com/]218.2.2.2 218.4.4.4
+[/rawmtech.com/]218.2.2.2 218.4.4.4
 [/raxtone.com/]218.2.2.2 218.4.4.4
 [/ray-joy.com/]218.2.2.2 218.4.4.4
 [/ray1988.com/]218.2.2.2 218.4.4.4
@@ -76403,6 +76629,7 @@ https://dns.google/dns-query
 [/redirector.snap.gvt1.com/]218.2.2.2 218.4.4.4
 [/redirector.xn--ngstr-lra8j.com/]218.2.2.2 218.4.4.4
 [/redisfans.com/]218.2.2.2 218.4.4.4
+[/redlinematch.com/]218.2.2.2 218.4.4.4
 [/redmagic.com/]218.2.2.2 218.4.4.4
 [/redmart.com/]218.2.2.2 218.4.4.4
 [/redmid.com/]218.2.2.2 218.4.4.4
@@ -77104,6 +77331,7 @@ https://dns.google/dns-query
 [/rongzhougucheng.com/]218.2.2.2 218.4.4.4
 [/rongzi.com/]218.2.2.2 218.4.4.4
 [/ronpharm.com/]218.2.2.2 218.4.4.4
+[/ronsen.com/]218.2.2.2 218.4.4.4
 [/rontgens.com/]218.2.2.2 218.4.4.4
 [/roobo.com/]218.2.2.2 218.4.4.4
 [/rooderscooters.com/]218.2.2.2 218.4.4.4
@@ -77685,6 +77913,7 @@ https://dns.google/dns-query
 [/rzv5.com/]218.2.2.2 218.4.4.4
 [/rzv7.com/]218.2.2.2 218.4.4.4
 [/rzx.me/]218.2.2.2 218.4.4.4
+[/rzzdj.com/]218.2.2.2 218.4.4.4
 [/rzzyfw.com/]218.2.2.2 218.4.4.4
 [/s-02.com/]218.2.2.2 218.4.4.4
 [/s-captcha-r1.com/]218.2.2.2 218.4.4.4
@@ -77874,6 +78103,7 @@ https://dns.google/dns-query
 [/same-tech.com/]218.2.2.2 218.4.4.4
 [/samebar.com/]218.2.2.2 218.4.4.4
 [/sameled.com/]218.2.2.2 218.4.4.4
+[/samepro.com/]218.2.2.2 218.4.4.4
 [/samhotele.com/]218.2.2.2 218.4.4.4
 [/saming.com/]218.2.2.2 218.4.4.4
 [/samirchen.com/]218.2.2.2 218.4.4.4
@@ -77936,6 +78166,7 @@ https://dns.google/dns-query
 [/sangbang.com/]218.2.2.2 218.4.4.4
 [/sangem.com/]218.2.2.2 218.4.4.4
 [/sangerbio.com/]218.2.2.2 218.4.4.4
+[/sangexinmy.com/]218.2.2.2 218.4.4.4
 [/sangfor.com/]218.2.2.2 218.4.4.4
 [/sangfor.net/]218.2.2.2 218.4.4.4
 [/sangfor.org/]218.2.2.2 218.4.4.4
@@ -78157,6 +78388,7 @@ https://dns.google/dns-query
 [/sbnkjl.com/]218.2.2.2 218.4.4.4
 [/sbo2.com/]218.2.2.2 218.4.4.4
 [/sbooktxt.com/]218.2.2.2 218.4.4.4
+[/sbooy.com/]218.2.2.2 218.4.4.4
 [/sbpiping.com/]218.2.2.2 218.4.4.4
 [/sbr-info.com/]218.2.2.2 218.4.4.4
 [/sbrczx.com/]218.2.2.2 218.4.4.4
@@ -78183,6 +78415,7 @@ https://dns.google/dns-query
 [/sc-tianyu.com/]218.2.2.2 218.4.4.4
 [/sc-troy.com/]218.2.2.2 218.4.4.4
 [/sc-wx.com/]218.2.2.2 218.4.4.4
+[/sc-york.com/]218.2.2.2 218.4.4.4
 [/sc.gg/]218.2.2.2 218.4.4.4
 [/sc119.cc/]218.2.2.2 218.4.4.4
 [/sc157.com/]218.2.2.2 218.4.4.4
@@ -78401,6 +78634,7 @@ https://dns.google/dns-query
 [/scgckj.com/]218.2.2.2 218.4.4.4
 [/scgglm.com/]218.2.2.2 218.4.4.4
 [/scgh114.com/]218.2.2.2 218.4.4.4
+[/scghpg.com/]218.2.2.2 218.4.4.4
 [/scghsd.com/]218.2.2.2 218.4.4.4
 [/scghseed.com/]218.2.2.2 218.4.4.4
 [/scgis.net/]218.2.2.2 218.4.4.4
@@ -78504,6 +78738,7 @@ https://dns.google/dns-query
 [/sckrskj.com/]218.2.2.2 218.4.4.4
 [/sckxjd.com/]218.2.2.2 218.4.4.4
 [/scl-cn.com/]218.2.2.2 218.4.4.4
+[/sclanchen.com/]218.2.2.2 218.4.4.4
 [/sclf.org/]218.2.2.2 218.4.4.4
 [/scll.cc/]218.2.2.2 218.4.4.4
 [/scloudgda.com/]218.2.2.2 218.4.4.4
@@ -78521,6 +78756,7 @@ https://dns.google/dns-query
 [/scmor.com/]218.2.2.2 218.4.4.4
 [/scmroad.com/]218.2.2.2 218.4.4.4
 [/scmsky.com/]218.2.2.2 218.4.4.4
+[/scmsrlgs.com/]218.2.2.2 218.4.4.4
 [/scmttec.com/]218.2.2.2 218.4.4.4
 [/scmxtv.com/]218.2.2.2 218.4.4.4
 [/scmy120.com/]218.2.2.2 218.4.4.4
@@ -78896,6 +79132,7 @@ https://dns.google/dns-query
 [/sdjuliangnet.com/]218.2.2.2 218.4.4.4
 [/sdjulong.net/]218.2.2.2 218.4.4.4
 [/sdjuming.com/]218.2.2.2 218.4.4.4
+[/sdjunpengls.com/]218.2.2.2 218.4.4.4
 [/sdjuxiang.com/]218.2.2.2 218.4.4.4
 [/sdjwg.com/]218.2.2.2 218.4.4.4
 [/sdjxgj.com/]218.2.2.2 218.4.4.4
@@ -79153,6 +79390,7 @@ https://dns.google/dns-query
 [/sea-gullmall.com/]218.2.2.2 218.4.4.4
 [/seaarea.com/]218.2.2.2 218.4.4.4
 [/seacatcry.com/]218.2.2.2 218.4.4.4
+[/seacon.com/]218.2.2.2 218.4.4.4
 [/seacxy.com/]218.2.2.2 218.4.4.4
 [/seaflysoft.com/]218.2.2.2 218.4.4.4
 [/seafrom.com/]218.2.2.2 218.4.4.4
@@ -79822,6 +80060,7 @@ https://dns.google/dns-query
 [/shall-buy.com/]218.2.2.2 218.4.4.4
 [/shallserve.cc/]218.2.2.2 218.4.4.4
 [/shamiao.com/]218.2.2.2 218.4.4.4
+[/shamzhe.com/]218.2.2.2 218.4.4.4
 [/shan-dao.com/]218.2.2.2 218.4.4.4
 [/shan-yu-tech.com/]218.2.2.2 218.4.4.4
 [/shan.com/]218.2.2.2 218.4.4.4
@@ -79966,6 +80205,7 @@ https://dns.google/dns-query
 [/shanghaiyouxi.com/]218.2.2.2 218.4.4.4
 [/shanghaizhaxinhospital.com/]218.2.2.2 218.4.4.4
 [/shanghaizhenji.com/]218.2.2.2 218.4.4.4
+[/shanghaojiudao.com/]218.2.2.2 218.4.4.4
 [/shanghcat.com/]218.2.2.2 218.4.4.4
 [/shanghongbei.com/]218.2.2.2 218.4.4.4
 [/shanghuiai.com/]218.2.2.2 218.4.4.4
@@ -80125,6 +80365,7 @@ https://dns.google/dns-query
 [/shanzhuhttp.com/]218.2.2.2 218.4.4.4
 [/shanzhuyou.com/]218.2.2.2 218.4.4.4
 [/shaoanlv007.com/]218.2.2.2 218.4.4.4
+[/shaobin-jiang.com/]218.2.2.2 218.4.4.4
 [/shaoerbc.org/]218.2.2.2 218.4.4.4
 [/shaoerwushu.org/]218.2.2.2 218.4.4.4
 [/shaogefenhao.com/]218.2.2.2 218.4.4.4
@@ -80725,6 +80966,7 @@ https://dns.google/dns-query
 [/shifeng.com/]218.2.2.2 218.4.4.4
 [/shifenyuedu.com/]218.2.2.2 218.4.4.4
 [/shigaoshan.com/]218.2.2.2 218.4.4.4
+[/shigenginfo.com/]218.2.2.2 218.4.4.4
 [/shiguanai.com/]218.2.2.2 218.4.4.4
 [/shiguanghuyu.com/]218.2.2.2 218.4.4.4
 [/shiguangpu.com/]218.2.2.2 218.4.4.4
@@ -81411,6 +81653,7 @@ https://dns.google/dns-query
 [/shuangxingcaisu.com/]218.2.2.2 218.4.4.4
 [/shuangxingseed.com/]218.2.2.2 218.4.4.4
 [/shuangxinhui.com/]218.2.2.2 218.4.4.4
+[/shuangxiumall.com/]218.2.2.2 218.4.4.4
 [/shuangyanjie.com/]218.2.2.2 218.4.4.4
 [/shuangyingmenye.net/]218.2.2.2 218.4.4.4
 [/shuangyingsx.com/]218.2.2.2 218.4.4.4
@@ -81566,6 +81809,7 @@ https://dns.google/dns-query
 [/shulanhealth.com/]218.2.2.2 218.4.4.4
 [/shulb.com/]218.2.2.2 218.4.4.4
 [/shulex-voc.com/]218.2.2.2 218.4.4.4
+[/shulex.com/]218.2.2.2 218.4.4.4
 [/shuliangtec.com/]218.2.2.2 218.4.4.4
 [/shulidata.com/]218.2.2.2 218.4.4.4
 [/shuling.vip/]218.2.2.2 218.4.4.4
@@ -82441,6 +82685,7 @@ https://dns.google/dns-query
 [/sjbutton.com/]218.2.2.2 218.4.4.4
 [/sjbyj.com/]218.2.2.2 218.4.4.4
 [/sjcamzone.cc/]218.2.2.2 218.4.4.4
+[/sjchess.com/]218.2.2.2 218.4.4.4
 [/sjcomic.com/]218.2.2.2 218.4.4.4
 [/sjcybz.com/]218.2.2.2 218.4.4.4
 [/sjdongwang.com/]218.2.2.2 218.4.4.4
@@ -82460,6 +82705,7 @@ https://dns.google/dns-query
 [/sjgo365.com/]218.2.2.2 218.4.4.4
 [/sjgskaipiao.com/]218.2.2.2 218.4.4.4
 [/sjhcip.com/]218.2.2.2 218.4.4.4
+[/sjhf120.com/]218.2.2.2 218.4.4.4
 [/sjhfkhgut009.com/]218.2.2.2 218.4.4.4
 [/sjhfrj.com/]218.2.2.2 218.4.4.4
 [/sjhgo.com/]218.2.2.2 218.4.4.4
@@ -82622,6 +82868,7 @@ https://dns.google/dns-query
 [/skusoft.com/]218.2.2.2 218.4.4.4
 [/skwfls.com/]218.2.2.2 218.4.4.4
 [/skxsj.com/]218.2.2.2 218.4.4.4
+[/skxvc.com/]218.2.2.2 218.4.4.4
 [/sky-deep.com/]218.2.2.2 218.4.4.4
 [/sky-fire.com/]218.2.2.2 218.4.4.4
 [/sky-ing.com/]218.2.2.2 218.4.4.4
@@ -83714,6 +83961,7 @@ https://dns.google/dns-query
 [/spiritframe.org/]218.2.2.2 218.4.4.4
 [/spirithy.com/]218.2.2.2 218.4.4.4
 [/spischolar.com/]218.2.2.2 218.4.4.4
+[/spisec.com/]218.2.2.2 218.4.4.4
 [/spiwcn.com/]218.2.2.2 218.4.4.4
 [/splaybow.com/]218.2.2.2 218.4.4.4
 [/splayer.work/]218.2.2.2 218.4.4.4
@@ -83748,6 +83996,7 @@ https://dns.google/dns-query
 [/springcocoon.com/]218.2.2.2 218.4.4.4
 [/springpharma.net/]218.2.2.2 218.4.4.4
 [/springtour.com/]218.2.2.2 218.4.4.4
+[/springwater520.com/]218.2.2.2 218.4.4.4
 [/springx.fun/]218.2.2.2 218.4.4.4
 [/sprint-tech.com/]218.2.2.2 218.4.4.4
 [/sprixin.com/]218.2.2.2 218.4.4.4
@@ -83824,6 +84073,7 @@ https://dns.google/dns-query
 [/sqwenhua.com/]218.2.2.2 218.4.4.4
 [/sqxww.com/]218.2.2.2 218.4.4.4
 [/sqyai.com/]218.2.2.2 218.4.4.4
+[/sqydao.com/]218.2.2.2 218.4.4.4
 [/sqyhw.com/]218.2.2.2 218.4.4.4
 [/sqzjg.com/]218.2.2.2 218.4.4.4
 [/sqzs.com/]218.2.2.2 218.4.4.4
@@ -83958,6 +84208,7 @@ https://dns.google/dns-query
 [/ssmec.com/]218.2.2.2 218.4.4.4
 [/ssmedic.com/]218.2.2.2 218.4.4.4
 [/ssmept.com/]218.2.2.2 218.4.4.4
+[/ssmy.cc/]218.2.2.2 218.4.4.4
 [/ssmys.com/]218.2.2.2 218.4.4.4
 [/ssnewyork.com/]218.2.2.2 218.4.4.4
 [/ssnm.xyz/]218.2.2.2 218.4.4.4
@@ -84032,6 +84283,7 @@ https://dns.google/dns-query
 [/stackoom.com/]218.2.2.2 218.4.4.4
 [/stackoverflow.club/]218.2.2.2 218.4.4.4
 [/stackoverflow.wiki/]218.2.2.2 218.4.4.4
+[/stacksnet.com/]218.2.2.2 218.4.4.4
 [/stag-terra-1-g.djicdn.com/]218.2.2.2 218.4.4.4
 [/stage1st.com/]218.2.2.2 218.4.4.4
 [/stage3rd.com/]218.2.2.2 218.4.4.4
@@ -84086,6 +84338,7 @@ https://dns.google/dns-query
 [/starooo.com/]218.2.2.2 218.4.4.4
 [/starpainters.net/]218.2.2.2 218.4.4.4
 [/starpiao.com/]218.2.2.2 218.4.4.4
+[/starplaylet.com/]218.2.2.2 218.4.4.4
 [/starrails.com/]218.2.2.2 218.4.4.4
 [/starrevs.com/]218.2.2.2 218.4.4.4
 [/starrockinvest.com/]218.2.2.2 218.4.4.4
@@ -84135,6 +84388,7 @@ https://dns.google/dns-query
 [/staticfile.net/]218.2.2.2 218.4.4.4
 [/staticfile.org/]218.2.2.2 218.4.4.4
 [/statickksmg.com/]218.2.2.2 218.4.4.4
+[/staticmeow.com/]218.2.2.2 218.4.4.4
 [/statics.cc/]218.2.2.2 218.4.4.4
 [/staticsdd.com/]218.2.2.2 218.4.4.4
 [/staticsoe.com/]218.2.2.2 218.4.4.4
@@ -84306,6 +84560,7 @@ https://dns.google/dns-query
 [/streamipcf.akamaized.net/]218.2.2.2 218.4.4.4
 [/streamlake.com/]218.2.2.2 218.4.4.4
 [/streamlakeapi.com/]218.2.2.2 218.4.4.4
+[/streammetal.com/]218.2.2.2 218.4.4.4
 [/streffy.com/]218.2.2.2 218.4.4.4
 [/strinova.com/]218.2.2.2 218.4.4.4
 [/strong-light.com/]218.2.2.2 218.4.4.4
@@ -84363,6 +84618,7 @@ https://dns.google/dns-query
 [/stylechina.com/]218.2.2.2 218.4.4.4
 [/styles-sys.com/]218.2.2.2 218.4.4.4
 [/stzc.com/]218.2.2.2 218.4.4.4
+[/stztz.com/]218.2.2.2 218.4.4.4
 [/stzzx.com/]218.2.2.2 218.4.4.4
 [/su-jiao.com/]218.2.2.2 218.4.4.4
 [/su-long.com/]218.2.2.2 218.4.4.4
@@ -85165,6 +85421,7 @@ https://dns.google/dns-query
 [/sxhwhb.com/]218.2.2.2 218.4.4.4
 [/sxhwls.com/]218.2.2.2 218.4.4.4
 [/sxhxbank.com/]218.2.2.2 218.4.4.4
+[/sxinmaoyi.com/]218.2.2.2 218.4.4.4
 [/sxisa.org/]218.2.2.2 218.4.4.4
 [/sxjant.com/]218.2.2.2 218.4.4.4
 [/sxjbswyy.com/]218.2.2.2 218.4.4.4
@@ -85259,6 +85516,7 @@ https://dns.google/dns-query
 [/sxsrmyy.com/]218.2.2.2 218.4.4.4
 [/sxsslz.net/]218.2.2.2 218.4.4.4
 [/sxssyh.com/]218.2.2.2 218.4.4.4
+[/sxstczx.com/]218.2.2.2 218.4.4.4
 [/sxswfzjt.com/]218.2.2.2 218.4.4.4
 [/sxsyyxh.com/]218.2.2.2 218.4.4.4
 [/sxsyyxh.net/]218.2.2.2 218.4.4.4
@@ -85551,6 +85809,7 @@ https://dns.google/dns-query
 [/sz-coin.com/]218.2.2.2 218.4.4.4
 [/sz-dfl.com/]218.2.2.2 218.4.4.4
 [/sz-dns.net/]218.2.2.2 218.4.4.4
+[/sz-dowell.com/]218.2.2.2 218.4.4.4
 [/sz-duoyi.com/]218.2.2.2 218.4.4.4
 [/sz-ebest.com/]218.2.2.2 218.4.4.4
 [/sz-ekl.com/]218.2.2.2 218.4.4.4
@@ -85693,6 +85952,7 @@ https://dns.google/dns-query
 [/szcat.org/]218.2.2.2 218.4.4.4
 [/szcatic.com/]218.2.2.2 218.4.4.4
 [/szcbc.com/]218.2.2.2 218.4.4.4
+[/szccsc.com/]218.2.2.2 218.4.4.4
 [/szcfjt.com/]218.2.2.2 218.4.4.4
 [/szcfyi.com/]218.2.2.2 218.4.4.4
 [/szcgc.com/]218.2.2.2 218.4.4.4
@@ -85720,6 +85980,7 @@ https://dns.google/dns-query
 [/szcua.org/]218.2.2.2 218.4.4.4
 [/szcw.com/]218.2.2.2 218.4.4.4
 [/szcwdz.com/]218.2.2.2 218.4.4.4
+[/szcxwdz.com/]218.2.2.2 218.4.4.4
 [/szcy-fintech.com/]218.2.2.2 218.4.4.4
 [/szcy99.com/]218.2.2.2 218.4.4.4
 [/szcyqg.com/]218.2.2.2 218.4.4.4
@@ -86391,6 +86652,7 @@ https://dns.google/dns-query
 [/t-firefly.com/]218.2.2.2 218.4.4.4
 [/t-gafa.com/]218.2.2.2 218.4.4.4
 [/t-io.org/]218.2.2.2 218.4.4.4
+[/t-machine.biz/]218.2.2.2 218.4.4.4
 [/t-npm.com/]218.2.2.2 218.4.4.4
 [/t-ocean.com/]218.2.2.2 218.4.4.4
 [/t-t.live/]218.2.2.2 218.4.4.4
@@ -86493,6 +86755,7 @@ https://dns.google/dns-query
 [/taichi-maker.com/]218.2.2.2 218.4.4.4
 [/taichuan.com/]218.2.2.2 218.4.4.4
 [/taichuan.net/]218.2.2.2 218.4.4.4
+[/taichuansmart.com/]218.2.2.2 218.4.4.4
 [/taici.com/]218.2.2.2 218.4.4.4
 [/taicike.com/]218.2.2.2 218.4.4.4
 [/taida-china.com/]218.2.2.2 218.4.4.4
@@ -86957,6 +87220,7 @@ https://dns.google/dns-query
 [/tav-global.com/]218.2.2.2 218.4.4.4
 [/tav-global.net/]218.2.2.2 218.4.4.4
 [/tavsiktlig.com/]218.2.2.2 218.4.4.4
+[/tawlyb.com/]218.2.2.2 218.4.4.4
 [/tax-edu.net/]218.2.2.2 218.4.4.4
 [/tax.vip/]218.2.2.2 218.4.4.4
 [/tax100.com/]218.2.2.2 218.4.4.4
@@ -87254,6 +87518,7 @@ https://dns.google/dns-query
 [/tdun.com/]218.2.2.2 218.4.4.4
 [/tduou.com/]218.2.2.2 218.4.4.4
 [/tdwan.com/]218.2.2.2 218.4.4.4
+[/tdwlcm.com/]218.2.2.2 218.4.4.4
 [/tdxz.net/]218.2.2.2 218.4.4.4
 [/tdyxmoto.com/]218.2.2.2 218.4.4.4
 [/tdzntech.com/]218.2.2.2 218.4.4.4
@@ -87889,6 +88154,7 @@ https://dns.google/dns-query
 [/tgnet.com/]218.2.2.2 218.4.4.4
 [/tgo-ai.com/]218.2.2.2 218.4.4.4
 [/tgovcloud.com/]218.2.2.2 218.4.4.4
+[/tgpro.net/]218.2.2.2 218.4.4.4
 [/tgr365.com/]218.2.2.2 218.4.4.4
 [/tgshiguan.com/]218.2.2.2 218.4.4.4
 [/tgslsst.com/]218.2.2.2 218.4.4.4
@@ -88001,6 +88267,7 @@ https://dns.google/dns-query
 [/thetigerhood.com/]218.2.2.2 218.4.4.4
 [/thetoplab.com/]218.2.2.2 218.4.4.4
 [/thetype.cloud/]218.2.2.2 218.4.4.4
+[/theuwa.com/]218.2.2.2 218.4.4.4
 [/thevaldezfamily.com/]218.2.2.2 218.4.4.4
 [/thevideosworld.com/]218.2.2.2 218.4.4.4
 [/theweina.com/]218.2.2.2 218.4.4.4
@@ -88600,6 +88867,7 @@ https://dns.google/dns-query
 [/tipask.com/]218.2.2.2 218.4.4.4
 [/tipdm.com/]218.2.2.2 218.4.4.4
 [/tipdm.org/]218.2.2.2 218.4.4.4
+[/tipfocus.com/]218.2.2.2 218.4.4.4
 [/tipray.com/]218.2.2.2 218.4.4.4
 [/tiprpress.com/]218.2.2.2 218.4.4.4
 [/tipsoon.com/]218.2.2.2 218.4.4.4
@@ -88721,6 +88989,7 @@ https://dns.google/dns-query
 [/tjkp-tools.com/]218.2.2.2 218.4.4.4
 [/tjkx.com/]218.2.2.2 218.4.4.4
 [/tjkximg.com/]218.2.2.2 218.4.4.4
+[/tjldflzxw.com/]218.2.2.2 218.4.4.4
 [/tjllhbkj.com/]218.2.2.2 218.4.4.4
 [/tjmama.com/]218.2.2.2 218.4.4.4
 [/tjmcgc.com/]218.2.2.2 218.4.4.4
@@ -88738,6 +89007,7 @@ https://dns.google/dns-query
 [/tjqq.cc/]218.2.2.2 218.4.4.4
 [/tjrenliziyuan.com/]218.2.2.2 218.4.4.4
 [/tjrenmu.com/]218.2.2.2 218.4.4.4
+[/tjrzzl.com/]218.2.2.2 218.4.4.4
 [/tjsjnxh.com/]218.2.2.2 218.4.4.4
 [/tjsjwygg.com/]218.2.2.2 218.4.4.4
 [/tjsjx.com/]218.2.2.2 218.4.4.4
@@ -88816,6 +89086,7 @@ https://dns.google/dns-query
 [/tl.gscm.tv/]218.2.2.2 218.4.4.4
 [/tl100.com/]218.2.2.2 218.4.4.4
 [/tl2y.com/]218.2.2.2 218.4.4.4
+[/tl391.com/]218.2.2.2 218.4.4.4
 [/tl50.com/]218.2.2.2 218.4.4.4
 [/tlang.com/]218.2.2.2 218.4.4.4
 [/tlbapm.com/]218.2.2.2 218.4.4.4
@@ -89415,10 +89686,12 @@ https://dns.google/dns-query
 [/touch-moblie.com/]218.2.2.2 218.4.4.4
 [/touch4.me/]218.2.2.2 218.4.4.4
 [/touchat.online/]218.2.2.2 218.4.4.4
+[/touchbike.net/]218.2.2.2 218.4.4.4
 [/touchealth.com/]218.2.2.2 218.4.4.4
 [/touchelf.com/]218.2.2.2 218.4.4.4
 [/touchev.com/]218.2.2.2 218.4.4.4
 [/touchgal.ink/]218.2.2.2 218.4.4.4
+[/touchgaloss.com/]218.2.2.2 218.4.4.4
 [/touchjoin.com/]218.2.2.2 218.4.4.4
 [/touchjoint.com/]218.2.2.2 218.4.4.4
 [/touchmark.art/]218.2.2.2 218.4.4.4
@@ -89802,6 +90075,7 @@ https://dns.google/dns-query
 [/trust-one.com/]218.2.2.2 218.4.4.4
 [/trust400.com/]218.2.2.2 218.4.4.4
 [/trustasia.com/]218.2.2.2 218.4.4.4
+[/trustca.net/]218.2.2.2 218.4.4.4
 [/trustcn.com/]218.2.2.2 218.4.4.4
 [/trustdecision.com/]218.2.2.2 218.4.4.4
 [/trustedsign.com/]218.2.2.2 218.4.4.4
@@ -90643,6 +90917,7 @@ https://dns.google/dns-query
 [/tyorient.com/]218.2.2.2 218.4.4.4
 [/tyouai.com/]218.2.2.2 218.4.4.4
 [/typany.com/]218.2.2.2 218.4.4.4
+[/type.fun/]218.2.2.2 218.4.4.4
 [/type.so/]218.2.2.2 218.4.4.4
 [/typecho.work/]218.2.2.2 218.4.4.4
 [/typechx.com/]218.2.2.2 218.4.4.4
@@ -90739,6 +91014,7 @@ https://dns.google/dns-query
 [/tzres.com/]218.2.2.2 218.4.4.4
 [/tzrl.com/]218.2.2.2 218.4.4.4
 [/tzrsks.com/]218.2.2.2 218.4.4.4
+[/tzsbjob.com/]218.2.2.2 218.4.4.4
 [/tzsfhxx.com/]218.2.2.2 218.4.4.4
 [/tzshipping.net/]218.2.2.2 218.4.4.4
 [/tzsports.com/]218.2.2.2 218.4.4.4
@@ -91247,6 +91523,7 @@ https://dns.google/dns-query
 [/unfish.net/]218.2.2.2 218.4.4.4
 [/ungifts.com/]218.2.2.2 218.4.4.4
 [/uni-cent.com/]218.2.2.2 218.4.4.4
+[/uni-market.com/]218.2.2.2 218.4.4.4
 [/uni-perfect.com/]218.2.2.2 218.4.4.4
 [/uni-ubi.com/]218.2.2.2 218.4.4.4
 [/uni4006.net/]218.2.2.2 218.4.4.4
@@ -91356,6 +91633,7 @@ https://dns.google/dns-query
 [/unixidc.com/]218.2.2.2 218.4.4.4
 [/unjmz.com/]218.2.2.2 218.4.4.4
 [/unjs.com/]218.2.2.2 218.4.4.4
+[/unknowntec.com/]218.2.2.2 218.4.4.4
 [/unkzyy3201.vip/]218.2.2.2 218.4.4.4
 [/unlcn.com/]218.2.2.2 218.4.4.4
 [/unlgroup.com/]218.2.2.2 218.4.4.4
@@ -91523,6 +91801,7 @@ https://dns.google/dns-query
 [/uritest.com/]218.2.2.2 218.4.4.4
 [/uriwh.com/]218.2.2.2 218.4.4.4
 [/url.cy/]218.2.2.2 218.4.4.4
+[/urldance.com/]218.2.2.2 218.4.4.4
 [/urlos.com/]218.2.2.2 218.4.4.4
 [/urlsecajog.com/]218.2.2.2 218.4.4.4
 [/uroandrologyseries.com/]218.2.2.2 218.4.4.4
@@ -91735,6 +92014,7 @@ https://dns.google/dns-query
 [/uw9.net/]218.2.2.2 218.4.4.4
 [/uwa4d.com/]218.2.2.2 218.4.4.4
 [/uwan.com/]218.2.2.2 218.4.4.4
+[/uwayparking.com/]218.2.2.2 218.4.4.4
 [/uwaysoft.com/]218.2.2.2 218.4.4.4
 [/uwenku.com/]218.2.2.2 218.4.4.4
 [/uwntek.com/]218.2.2.2 218.4.4.4
@@ -92299,6 +92579,7 @@ https://dns.google/dns-query
 [/vipbuluo.com/]218.2.2.2 218.4.4.4
 [/vipcaocao.com/]218.2.2.2 218.4.4.4
 [/vipchina.com/]218.2.2.2 218.4.4.4
+[/vipcode.com/]218.2.2.2 218.4.4.4
 [/vipcto.com/]218.2.2.2 218.4.4.4
 [/vipdlt.com/]218.2.2.2 218.4.4.4
 [/vipersaudio.com/]218.2.2.2 218.4.4.4
@@ -92403,6 +92684,7 @@ https://dns.google/dns-query
 [/vision-nj.com/]218.2.2.2 218.4.4.4
 [/vision-systems-china.com/]218.2.2.2 218.4.4.4
 [/visionandview.com/]218.2.2.2 218.4.4.4
+[/visionariopro.com/]218.2.2.2 218.4.4.4
 [/visionarytech.ltd/]218.2.2.2 218.4.4.4
 [/visionbbs.com/]218.2.2.2 218.4.4.4
 [/visionchinashow.net/]218.2.2.2 218.4.4.4
@@ -92426,6 +92708,7 @@ https://dns.google/dns-query
 [/visu-autotec.com/]218.2.2.2 218.4.4.4
 [/visualchina.com/]218.2.2.2 218.4.4.4
 [/visvachina.com/]218.2.2.2 218.4.4.4
+[/visvie.com/]218.2.2.2 218.4.4.4
 [/visvn.com/]218.2.2.2 218.4.4.4
 [/vitagou.com/]218.2.2.2 218.4.4.4
 [/vitagou.hk/]218.2.2.2 218.4.4.4
@@ -92487,6 +92770,7 @@ https://dns.google/dns-query
 [/vlabstatic.com/]218.2.2.2 218.4.4.4
 [/vlabvod.com/]218.2.2.2 218.4.4.4
 [/vlan.fun/]218.2.2.2 218.4.4.4
+[/vlan5.com/]218.2.2.2 218.4.4.4
 [/vland-official.com/]218.2.2.2 218.4.4.4
 [/vlandgroup.com/]218.2.2.2 218.4.4.4
 [/vlcable.com/]218.2.2.2 218.4.4.4
@@ -92894,6 +93178,7 @@ https://dns.google/dns-query
 [/vtibet.com/]218.2.2.2 218.4.4.4
 [/vtijian.com/]218.2.2.2 218.4.4.4
 [/vtool.vip/]218.2.2.2 218.4.4.4
+[/vtools.online/]218.2.2.2 218.4.4.4
 [/vtoshop.com/]218.2.2.2 218.4.4.4
 [/vtoutiao.cc/]218.2.2.2 218.4.4.4
 [/vtradex.com/]218.2.2.2 218.4.4.4
@@ -93424,6 +93709,7 @@ https://dns.google/dns-query
 [/wanmei.net/]218.2.2.2 218.4.4.4
 [/wanmeilink.com/]218.2.2.2 218.4.4.4
 [/wanmeilr.com/]218.2.2.2 218.4.4.4
+[/wanmeisy.net/]218.2.2.2 218.4.4.4
 [/wanmeiyunjiao.com/]218.2.2.2 218.4.4.4
 [/wanmi.com/]218.2.2.2 218.4.4.4
 [/wannaenergy.com/]218.2.2.2 218.4.4.4
@@ -93722,6 +94008,7 @@ https://dns.google/dns-query
 [/wdiyi.com/]218.2.2.2 218.4.4.4
 [/wdj21.com/]218.2.2.2 218.4.4.4
 [/wdjimg.com/]218.2.2.2 218.4.4.4
+[/wdjiyili.com/]218.2.2.2 218.4.4.4
 [/wdjky.com/]218.2.2.2 218.4.4.4
 [/wdklchina.com/]218.2.2.2 218.4.4.4
 [/wdkmall.com/]218.2.2.2 218.4.4.4
@@ -94260,6 +94547,7 @@ https://dns.google/dns-query
 [/weixinkd.com/]218.2.2.2 218.4.4.4
 [/weixinmvp.com/]218.2.2.2 218.4.4.4
 [/weixinnft.com/]218.2.2.2 218.4.4.4
+[/weixinpcs.com/]218.2.2.2 218.4.4.4
 [/weixinpy.com/]218.2.2.2 218.4.4.4
 [/weixinqing.com/]218.2.2.2 218.4.4.4
 [/weixinqz.com/]218.2.2.2 218.4.4.4
@@ -95429,6 +95717,7 @@ https://dns.google/dns-query
 [/wise-iot.com/]218.2.2.2 218.4.4.4
 [/wise99.com/]218.2.2.2 218.4.4.4
 [/wiseasy.com/]218.2.2.2 218.4.4.4
+[/wisebond.net/]218.2.2.2 218.4.4.4
 [/wisecity.net/]218.2.2.2 218.4.4.4
 [/wisecotech.com/]218.2.2.2 218.4.4.4
 [/wisedoo.com/]218.2.2.2 218.4.4.4
@@ -95459,6 +95748,7 @@ https://dns.google/dns-query
 [/wisrc.com/]218.2.2.2 218.4.4.4
 [/wistapharma.com/]218.2.2.2 218.4.4.4
 [/wistone.com/]218.2.2.2 218.4.4.4
+[/wisweals.com/]218.2.2.2 218.4.4.4
 [/wiswonder.com/]218.2.2.2 218.4.4.4
 [/wit-parking.com/]218.2.2.2 218.4.4.4
 [/wit-union.com/]218.2.2.2 218.4.4.4
@@ -95519,6 +95809,7 @@ https://dns.google/dns-query
 [/wjgdyy.com/]218.2.2.2 218.4.4.4
 [/wjgglm.com/]218.2.2.2 218.4.4.4
 [/wjgslb.com/]218.2.2.2 218.4.4.4
+[/wjhgift.com/]218.2.2.2 218.4.4.4
 [/wjhh666.com/]218.2.2.2 218.4.4.4
 [/wjhotelgroup.com/]218.2.2.2 218.4.4.4
 [/wjhr.net/]218.2.2.2 218.4.4.4
@@ -95606,6 +95897,7 @@ https://dns.google/dns-query
 [/wlhyxh.com/]218.2.2.2 218.4.4.4
 [/wlinfor.com/]218.2.2.2 218.4.4.4
 [/wljhealth.com/]218.2.2.2 218.4.4.4
+[/wlkac.com/]218.2.2.2 218.4.4.4
 [/wlkgo.com/]218.2.2.2 218.4.4.4
 [/wlkst.com/]218.2.2.2 218.4.4.4
 [/wll-xyz.com/]218.2.2.2 218.4.4.4
@@ -95792,6 +96084,7 @@ https://dns.google/dns-query
 [/wobaif.com/]218.2.2.2 218.4.4.4
 [/wobeili.com/]218.2.2.2 218.4.4.4
 [/wobocn.com/]218.2.2.2 218.4.4.4
+[/wobwxe.com/]218.2.2.2 218.4.4.4
 [/woc.space/]218.2.2.2 218.4.4.4
 [/woc88.com/]218.2.2.2 218.4.4.4
 [/wochacha.com/]218.2.2.2 218.4.4.4
@@ -96794,6 +97087,7 @@ https://dns.google/dns-query
 [/wxdhnt.com/]218.2.2.2 218.4.4.4
 [/wxdianju.com/]218.2.2.2 218.4.4.4
 [/wxdw.info/]218.2.2.2 218.4.4.4
+[/wxdyl.com/]218.2.2.2 218.4.4.4
 [/wxeditor.com/]218.2.2.2 218.4.4.4
 [/wxedu.net/]218.2.2.2 218.4.4.4
 [/wxeic.com/]218.2.2.2 218.4.4.4
@@ -96903,7 +97197,9 @@ https://dns.google/dns-query
 [/wxslzf.com/]218.2.2.2 218.4.4.4
 [/wxsswgs.com/]218.2.2.2 218.4.4.4
 [/wxsteed.com/]218.2.2.2 218.4.4.4
+[/wxstratos.com/]218.2.2.2 218.4.4.4
 [/wxstztg.com/]218.2.2.2 218.4.4.4
+[/wxsxxj.com/]218.2.2.2 218.4.4.4
 [/wxsywater.com/]218.2.2.2 218.4.4.4
 [/wxsyyxh.com/]218.2.2.2 218.4.4.4
 [/wxszjt.com/]218.2.2.2 218.4.4.4
@@ -97265,6 +97561,7 @@ https://dns.google/dns-query
 [/xajjn.com/]218.2.2.2 218.4.4.4
 [/xajjwy.com/]218.2.2.2 218.4.4.4
 [/xajob.com/]218.2.2.2 218.4.4.4
+[/xajtl.com/]218.2.2.2 218.4.4.4
 [/xajx.com/]218.2.2.2 218.4.4.4
 [/xajxcw.com/]218.2.2.2 218.4.4.4
 [/xakaili.com/]218.2.2.2 218.4.4.4
@@ -97338,6 +97635,7 @@ https://dns.google/dns-query
 [/xayzjc.com/]218.2.2.2 218.4.4.4
 [/xazbts.com/]218.2.2.2 218.4.4.4
 [/xazcit.com/]218.2.2.2 218.4.4.4
+[/xazfq.com/]218.2.2.2 218.4.4.4
 [/xazls.com/]218.2.2.2 218.4.4.4
 [/xazmkm.com/]218.2.2.2 218.4.4.4
 [/xazwy.com/]218.2.2.2 218.4.4.4
@@ -97632,6 +97930,7 @@ https://dns.google/dns-query
 [/xescdn.com/]218.2.2.2 218.4.4.4
 [/xesdns.com/]218.2.2.2 218.4.4.4
 [/xesee.com/]218.2.2.2 218.4.4.4
+[/xesim.net/]218.2.2.2 218.4.4.4
 [/xesimg.com/]218.2.2.2 218.4.4.4
 [/xesv5.com/]218.2.2.2 218.4.4.4
 [/xet.tech/]218.2.2.2 218.4.4.4
@@ -97903,6 +98202,7 @@ https://dns.google/dns-query
 [/xiamenair.com/]218.2.2.2 218.4.4.4
 [/xiamenbg.com/]218.2.2.2 218.4.4.4
 [/xiamenfojiao.com/]218.2.2.2 218.4.4.4
+[/xiamenfq.com/]218.2.2.2 218.4.4.4
 [/xiamenhuandongmarathon.com/]218.2.2.2 218.4.4.4
 [/xiamenjiyang.com/]218.2.2.2 218.4.4.4
 [/xiamentianqi114.com/]218.2.2.2 218.4.4.4
@@ -98098,6 +98398,7 @@ https://dns.google/dns-query
 [/xiao688.com/]218.2.2.2 218.4.4.4
 [/xiaoa.name/]218.2.2.2 218.4.4.4
 [/xiaoac.com/]218.2.2.2 218.4.4.4
+[/xiaoai.live/]218.2.2.2 218.4.4.4
 [/xiaoaiassist.com/]218.2.2.2 218.4.4.4
 [/xiaoaiscan.net/]218.2.2.2 218.4.4.4
 [/xiaoaisound.com/]218.2.2.2 218.4.4.4
@@ -98458,6 +98759,7 @@ https://dns.google/dns-query
 [/xiaoweijia.net/]218.2.2.2 218.4.4.4
 [/xiaoweijiankang.com/]218.2.2.2 218.4.4.4
 [/xiaoweirobot.com/]218.2.2.2 218.4.4.4
+[/xiaowenan.com/]218.2.2.2 218.4.4.4
 [/xiaowiba.com/]218.2.2.2 218.4.4.4
 [/xiaowm.com/]218.2.2.2 218.4.4.4
 [/xiaowuwl.com/]218.2.2.2 218.4.4.4
@@ -98930,6 +99232,7 @@ https://dns.google/dns-query
 [/xingmima.com/]218.2.2.2 218.4.4.4
 [/xingming.com/]218.2.2.2 218.4.4.4
 [/xingming.net/]218.2.2.2 218.4.4.4
+[/xingmojs.com/]218.2.2.2 218.4.4.4
 [/xingnuo.cc/]218.2.2.2 218.4.4.4
 [/xingongjiaoyu.com/]218.2.2.2 218.4.4.4
 [/xingpai.com/]218.2.2.2 218.4.4.4
@@ -99897,6 +100200,7 @@ https://dns.google/dns-query
 [/xmtyy.net/]218.2.2.2 218.4.4.4
 [/xmuli.tech/]218.2.2.2 218.4.4.4
 [/xmwan.com/]218.2.2.2 218.4.4.4
+[/xmwenzhong.com/]218.2.2.2 218.4.4.4
 [/xmwes.com/]218.2.2.2 218.4.4.4
 [/xmwsrc.com/]218.2.2.2 218.4.4.4
 [/xmx023.com/]218.2.2.2 218.4.4.4
@@ -100051,6 +100355,7 @@ https://dns.google/dns-query
 [/xn--husx9zj2eepau0se83d.com/]218.2.2.2 218.4.4.4
 [/xn--hutn94av9amzg.net/]218.2.2.2 218.4.4.4
 [/xn--i6q33br88fkud.com/]218.2.2.2 218.4.4.4
+[/xn--id-ov2cb7n32b01yl6auun2bpzk4p2dgip.com/]218.2.2.2 218.4.4.4
 [/xn--igry70bi8kqt9a.org/]218.2.2.2 218.4.4.4
 [/xn--igt225itqf.com/]218.2.2.2 218.4.4.4
 [/xn--iiqs04a411ac1w.xn--czr694b/]218.2.2.2 218.4.4.4
@@ -100976,6 +101281,7 @@ https://dns.google/dns-query
 [/xxghh.biz/]218.2.2.2 218.4.4.4
 [/xxgzz.com/]218.2.2.2 218.4.4.4
 [/xxhd-tech.com/]218.2.2.2 218.4.4.4
+[/xxhd001.com/]218.2.2.2 218.4.4.4
 [/xxhnanke.com/]218.2.2.2 218.4.4.4
 [/xxhrd.com/]218.2.2.2 218.4.4.4
 [/xxinficity.com/]218.2.2.2 218.4.4.4
@@ -101982,6 +102288,7 @@ https://dns.google/dns-query
 [/yccn.cc/]218.2.2.2 218.4.4.4
 [/ycdext.net/]218.2.2.2 218.4.4.4
 [/ycdfby.com/]218.2.2.2 218.4.4.4
+[/ycdfjt.com/]218.2.2.2 218.4.4.4
 [/ycdfwater.com/]218.2.2.2 218.4.4.4
 [/ycdongxu.com/]218.2.2.2 218.4.4.4
 [/ycdrh.com/]218.2.2.2 218.4.4.4
@@ -102090,10 +102397,12 @@ https://dns.google/dns-query
 [/ycxinxi.com/]218.2.2.2 218.4.4.4
 [/ycxjtd.com/]218.2.2.2 218.4.4.4
 [/ycxm.com/]218.2.2.2 218.4.4.4
+[/ycxrfw.com/]218.2.2.2 218.4.4.4
 [/ycxskw.com/]218.2.2.2 218.4.4.4
 [/ycxy.com/]218.2.2.2 218.4.4.4
 [/ycxzlsyxgs.com/]218.2.2.2 218.4.4.4
 [/ycyaw.com/]218.2.2.2 218.4.4.4
+[/ycyct.com/]218.2.2.2 218.4.4.4
 [/ycycut.com/]218.2.2.2 218.4.4.4
 [/ycyhzx.com/]218.2.2.2 218.4.4.4
 [/ycyjkj.com/]218.2.2.2 218.4.4.4
@@ -103516,6 +103825,7 @@ https://dns.google/dns-query
 [/yjijy.com/]218.2.2.2 218.4.4.4
 [/yjiyun.com/]218.2.2.2 218.4.4.4
 [/yjjsjt.com/]218.2.2.2 218.4.4.4
+[/yjjy.club/]218.2.2.2 218.4.4.4
 [/yjk.com/]218.2.2.2 218.4.4.4
 [/yjk.im/]218.2.2.2 218.4.4.4
 [/yjldp.com/]218.2.2.2 218.4.4.4
@@ -103802,6 +104112,7 @@ https://dns.google/dns-query
 [/ymxinxi.com/]218.2.2.2 218.4.4.4
 [/ymxlass.com/]218.2.2.2 218.4.4.4
 [/ymy9.com/]218.2.2.2 218.4.4.4
+[/ymyk168.com/]218.2.2.2 218.4.4.4
 [/ymyun.com/]218.2.2.2 218.4.4.4
 [/ymyw.net/]218.2.2.2 218.4.4.4
 [/ymyxsw.com/]218.2.2.2 218.4.4.4
@@ -104331,6 +104642,7 @@ https://dns.google/dns-query
 [/youpont.net/]218.2.2.2 218.4.4.4
 [/youpuchina.com/]218.2.2.2 218.4.4.4
 [/youpumao.com/]218.2.2.2 218.4.4.4
+[/youqian.pro/]218.2.2.2 218.4.4.4
 [/youqiantu.com/]218.2.2.2 218.4.4.4
 [/youqichuyun.com/]218.2.2.2 218.4.4.4
 [/youqiong.net/]218.2.2.2 218.4.4.4
@@ -104840,6 +105152,7 @@ https://dns.google/dns-query
 [/ythospital.com/]218.2.2.2 218.4.4.4
 [/ythouse.com/]218.2.2.2 218.4.4.4
 [/ytj9999.com/]218.2.2.2 218.4.4.4
+[/ytjcnkyy.com/]218.2.2.2 218.4.4.4
 [/ytjcpj.com/]218.2.2.2 218.4.4.4
 [/ytjiage.com/]218.2.2.2 218.4.4.4
 [/ytjob.com/]218.2.2.2 218.4.4.4
@@ -104916,6 +105229,7 @@ https://dns.google/dns-query
 [/yuanbei.biz/]218.2.2.2 218.4.4.4
 [/yuanben.io/]218.2.2.2 218.4.4.4
 [/yuanbin.me/]218.2.2.2 218.4.4.4
+[/yuancailiao.net/]218.2.2.2 218.4.4.4
 [/yuancangipr.com/]218.2.2.2 218.4.4.4
 [/yuancdn.com/]218.2.2.2 218.4.4.4
 [/yuancefund.com/]218.2.2.2 218.4.4.4
@@ -105103,6 +105417,7 @@ https://dns.google/dns-query
 [/yueliangshi.com/]218.2.2.2 218.4.4.4
 [/yuelongchina.com/]218.2.2.2 218.4.4.4
 [/yuelongdzc168.com/]218.2.2.2 218.4.4.4
+[/yuelongyy.com/]218.2.2.2 218.4.4.4
 [/yueloo.com/]218.2.2.2 218.4.4.4
 [/yuelu.net/]218.2.2.2 218.4.4.4
 [/yuelun.com/]218.2.2.2 218.4.4.4
@@ -105127,6 +105442,7 @@ https://dns.google/dns-query
 [/yuerbao.com/]218.2.2.2 218.4.4.4
 [/yueren123.com/]218.2.2.2 218.4.4.4
 [/yuerenjt.com/]218.2.2.2 218.4.4.4
+[/yuerenyy.com/]218.2.2.2 218.4.4.4
 [/yueru.com/]218.2.2.2 218.4.4.4
 [/yuerugou.com/]218.2.2.2 218.4.4.4
 [/yuesekaer.com/]218.2.2.2 218.4.4.4
@@ -105136,6 +105452,7 @@ https://dns.google/dns-query
 [/yueshitv.com/]218.2.2.2 218.4.4.4
 [/yuesuoping.com/]218.2.2.2 218.4.4.4
 [/yuetengiot.com/]218.2.2.2 218.4.4.4
+[/yueti.vip/]218.2.2.2 218.4.4.4
 [/yueting.net/]218.2.2.2 218.4.4.4
 [/yuetingapp.com/]218.2.2.2 218.4.4.4
 [/yuetj.com/]218.2.2.2 218.4.4.4
@@ -105551,6 +105868,7 @@ https://dns.google/dns-query
 [/yunshanit.com/]218.2.2.2 218.4.4.4
 [/yunshanmedical.com/]218.2.2.2 218.4.4.4
 [/yunshanmeicai.com/]218.2.2.2 218.4.4.4
+[/yunshehuahui.com/]218.2.2.2 218.4.4.4
 [/yunsheng.com/]218.2.2.2 218.4.4.4
 [/yunsheng999.com/]218.2.2.2 218.4.4.4
 [/yunshibuluo.com/]218.2.2.2 218.4.4.4
@@ -107577,6 +107895,7 @@ https://dns.google/dns-query
 [/zhelixin.com/]218.2.2.2 218.4.4.4
 [/zheliyin.com/]218.2.2.2 218.4.4.4
 [/zhen-ao.com/]218.2.2.2 218.4.4.4
+[/zhen-u.com/]218.2.2.2 218.4.4.4
 [/zhen.com/]218.2.2.2 218.4.4.4
 [/zhenai.com/]218.2.2.2 218.4.4.4
 [/zhenaihn.com/]218.2.2.2 218.4.4.4
@@ -107711,6 +108030,7 @@ https://dns.google/dns-query
 [/zhetouniu.com/]218.2.2.2 218.4.4.4
 [/zheurl.com/]218.2.2.2 218.4.4.4
 [/zhewanji.net/]218.2.2.2 218.4.4.4
+[/zhewx.com/]218.2.2.2 218.4.4.4
 [/zhexi.tech/]218.2.2.2 218.4.4.4
 [/zhexingzx.com/]218.2.2.2 218.4.4.4
 [/zheye.com/]218.2.2.2 218.4.4.4
@@ -107938,6 +108258,7 @@ https://dns.google/dns-query
 [/zhiminglawyer.com/]218.2.2.2 218.4.4.4
 [/zhimodesign.com/]218.2.2.2 218.4.4.4
 [/zhimoe.com/]218.2.2.2 218.4.4.4
+[/zhinanshi.com/]218.2.2.2 218.4.4.4
 [/zhineikaixin.com/]218.2.2.2 218.4.4.4
 [/zhinengdayi.com/]218.2.2.2 218.4.4.4
 [/zhinengjianzhan.com/]218.2.2.2 218.4.4.4
@@ -107987,6 +108308,7 @@ https://dns.google/dns-query
 [/zhishifenzi.com/]218.2.2.2 218.4.4.4
 [/zhishisoft.com/]218.2.2.2 218.4.4.4
 [/zhishiwu.com/]218.2.2.2 218.4.4.4
+[/zhishustar.com/]218.2.2.2 218.4.4.4
 [/zhishutang.com/]218.2.2.2 218.4.4.4
 [/zhishuyun.com/]218.2.2.2 218.4.4.4
 [/zhisiyun.com/]218.2.2.2 218.4.4.4
@@ -108855,6 +109177,7 @@ https://dns.google/dns-query
 [/zimilan.com/]218.2.2.2 218.4.4.4
 [/zimudashi.com/]218.2.2.2 218.4.4.4
 [/zimufy.com/]218.2.2.2 218.4.4.4
+[/zimug.com/]218.2.2.2 218.4.4.4
 [/zimuism.com/]218.2.2.2 218.4.4.4
 [/zimujiang.com/]218.2.2.2 218.4.4.4
 [/zimuzu.com/]218.2.2.2 218.4.4.4
@@ -109066,6 +109389,7 @@ https://dns.google/dns-query
 [/zjcbcm.com/]218.2.2.2 218.4.4.4
 [/zjcbjy.com/]218.2.2.2 218.4.4.4
 [/zjcbl.com/]218.2.2.2 218.4.4.4
+[/zjcckj.com/]218.2.2.2 218.4.4.4
 [/zjcdn.com/]218.2.2.2 218.4.4.4
 [/zjceia.com/]218.2.2.2 218.4.4.4
 [/zjcgmetal.com/]218.2.2.2 218.4.4.4
@@ -109417,6 +109741,7 @@ https://dns.google/dns-query
 [/zjsdbjt.com/]218.2.2.2 218.4.4.4
 [/zjseaport.com/]218.2.2.2 218.4.4.4
 [/zjsee.org/]218.2.2.2 218.4.4.4
+[/zjsfdc.com/]218.2.2.2 218.4.4.4
 [/zjsftc.com/]218.2.2.2 218.4.4.4
 [/zjsgjs.com/]218.2.2.2 218.4.4.4
 [/zjshangfeng.com/]218.2.2.2 218.4.4.4
@@ -109754,6 +110079,7 @@ https://dns.google/dns-query
 [/zlx.com/]218.2.2.2 218.4.4.4
 [/zlxiang.com/]218.2.2.2 218.4.4.4
 [/zly169.com/]218.2.2.2 218.4.4.4
+[/zlyahuawang.com/]218.2.2.2 218.4.4.4
 [/zlygjzx.com/]218.2.2.2 218.4.4.4
 [/zlygu.com/]218.2.2.2 218.4.4.4
 [/zlysgl.com/]218.2.2.2 218.4.4.4
@@ -110430,6 +110756,7 @@ https://dns.google/dns-query
 [/zuiceshi.net/]218.2.2.2 218.4.4.4
 [/zuicool.com/]218.2.2.2 218.4.4.4
 [/zuidaima.com/]218.2.2.2 218.4.4.4
+[/zuidazym3u8.com/]218.2.2.2 218.4.4.4
 [/zuidijia.com/]218.2.2.2 218.4.4.4
 [/zuidongxi.com/]218.2.2.2 218.4.4.4
 [/zuifengyun.com/]218.2.2.2 218.4.4.4
@@ -110777,6 +111104,7 @@ https://dns.google/dns-query
 [/zyctd.com/]218.2.2.2 218.4.4.4
 [/zyczg.com/]218.2.2.2 218.4.4.4
 [/zydanxia.com/]218.2.2.2 218.4.4.4
+[/zydcgroup.com/]218.2.2.2 218.4.4.4
 [/zydlks.com/]218.2.2.2 218.4.4.4
 [/zydsy.com/]218.2.2.2 218.4.4.4
 [/zydtrip.net/]218.2.2.2 218.4.4.4
@@ -110915,6 +111243,7 @@ https://dns.google/dns-query
 [/zzbs.org/]218.2.2.2 218.4.4.4
 [/zzbtool.com/]218.2.2.2 218.4.4.4
 [/zzbtv.com/]218.2.2.2 218.4.4.4
+[/zzbxd.com/]218.2.2.2 218.4.4.4
 [/zzc9.com/]218.2.2.2 218.4.4.4
 [/zzccom.com/]218.2.2.2 218.4.4.4
 [/zzccp.com/]218.2.2.2 218.4.4.4
@@ -111016,6 +111345,8 @@ https://dns.google/dns-query
 [/zzrseng.com/]218.2.2.2 218.4.4.4
 [/zzs5.com/]218.2.2.2 218.4.4.4
 [/zzs5.info/]218.2.2.2 218.4.4.4
+[/zzsctz.com/]218.2.2.2 218.4.4.4
+[/zzsdrj.com/]218.2.2.2 218.4.4.4
 [/zzsdyrmyy.com/]218.2.2.2 218.4.4.4
 [/zzsey.com/]218.2.2.2 218.4.4.4
 [/zzsf.com/]218.2.2.2 218.4.4.4
