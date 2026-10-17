@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-10-16 02:40:12
+# 自动生成于 2026-10-17 02:32:36
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4676 个域名）
+# 国外域名规则（共 4678 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -81,6 +81,7 @@
 [/6parker.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/6parknews.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/7capture.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/7x24hrs.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/8-d.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/85cc.us/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/881903.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2629,6 +2630,7 @@
 [/messenger.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/meta.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/meta.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/metaaivm.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/metafilter.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/metamask.io/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/metart.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
