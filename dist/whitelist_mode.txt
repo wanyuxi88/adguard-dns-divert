@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式
-# 自动生成于 2026-10-17 02:32:36
+# 自动生成于 2026-10-18 02:33:00
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@ https://dns.google/dns-query
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国内域名规则（共 110202 个域名）
+# 国内域名规则（共 110203 个域名）
 #==================================================
 [/0.xn--czrs0t/]218.2.2.2 218.4.4.4
 [/0.xn--unup4y/]218.2.2.2 218.4.4.4
@@ -29679,6 +29679,7 @@ https://dns.google/dns-query
 [/downkr.com/]218.2.2.2 218.4.4.4
 [/downkuai.com/]218.2.2.2 218.4.4.4
 [/download.jetbrains.com/]218.2.2.2 218.4.4.4
+[/download.microsoft.com/]218.2.2.2 218.4.4.4
 [/download.visualstudio.microsoft.com/]218.2.2.2 218.4.4.4
 [/download.windowsupdate.com/]218.2.2.2 218.4.4.4
 [/downloads.ltd/]218.2.2.2 218.4.4.4
