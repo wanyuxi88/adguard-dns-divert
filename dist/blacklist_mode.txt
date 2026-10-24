@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-10-23 02:54:36
+# 自动生成于 2026-10-24 02:51:23
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4678 个域名）
+# 国外域名规则（共 4680 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -884,6 +884,7 @@
 [/connect.facebook.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/conoha.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/console.groq.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/console.typesafe.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/content.jwplatform.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/contests.twilio.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cool18.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -1497,6 +1498,7 @@
 [/g.co/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/g0v.social/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/g6hentai.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/ga.jspm.io/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gab.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gabocorp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gagaoolala.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
