@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-10-25 02:43:15
+# 自动生成于 2026-10-26 02:41:23
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4680 个域名）
+# 国外域名规则（共 4689 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -27,6 +27,7 @@
 [/10musume.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/123av.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/123av.me/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/123av.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/12bet.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/12vpn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/12vpn.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2374,6 +2375,7 @@
 [/kichiku-doujinko.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kik.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/killwall.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/kimootoko.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kindle4rss.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kindleren.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/kingdomsalvation.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2672,6 +2674,7 @@
 [/minhhue.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/miningpoolhub.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/ministrybooks.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/minkch.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/minzhuzhongguo.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/miraheze.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mirdc.org.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2735,6 +2738,7 @@
 [/mosavi.io/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/motherless.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/movements.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/movie.eroterest.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moviefap.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mozilla.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mpettis.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2896,6 +2900,9 @@
 [/nivodi.tv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nivodz.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/njactb.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/njav.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/njav.tv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/njavtv.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nl/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nlfreevpn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nmsl.website/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3169,6 +3176,7 @@
 [/plurk.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/plus.codes/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pmatehunter.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/po-kaki-to.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/po2b.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/podbean.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/podcast.co/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -4690,6 +4698,7 @@
 [/zophar.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/zorrovpn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/zozotown.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/zozovideo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/zpn.im/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/zspeeder.me/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/zuo.la/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
