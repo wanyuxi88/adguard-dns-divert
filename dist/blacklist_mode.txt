@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-10-31 03:39:15
+# 自动生成于 2026-11-01 03:46:14
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4689 个域名）
+# 国外域名规则（共 4693 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -243,6 +243,7 @@
 [/anonymouse.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/antd.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/anthonycalzadilla.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/anthropic.auth0.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/anthropic.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/antiwave.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/antpool.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -581,6 +582,7 @@
 [/browserleaks.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/brutaltgp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsky.app/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/bsky.chat/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsky.network/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bsky.social/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bt4g.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -817,7 +819,9 @@
 [/clashyun.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/classicalguitarblog.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/claude.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/claude.app/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/claude.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/claudemcpcontent.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/claudeusercontent.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cldr.unicode.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/clearsurance.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
