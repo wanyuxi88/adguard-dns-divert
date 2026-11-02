@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-11-01 03:46:14
+# 自动生成于 2026-11-02 03:51:23
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4693 个域名）
+# 国外域名规则（共 4696 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -271,6 +271,7 @@
 [/api.recaptcha.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.shuaiapi.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.steampowered.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/api.themoviedb.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.together.xyz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/api.viu.now.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/apiary.io/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3984,6 +3985,7 @@
 [/torproject.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/torrentgalaxy.to/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/torrentkitty.tv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/torrentleech.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/torrentprivacy.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/torrentproject.se/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/torrenty.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -4631,6 +4633,7 @@
 [/youtubei.googleapis.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/youtubekids.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/youversion.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/youversionapi.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/youwin.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/youxu.info/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/yt.be/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
