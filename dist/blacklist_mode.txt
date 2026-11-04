@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-11-03 04:54:05
+# 自动生成于 2026-11-04 04:23:03
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4696 个域名）
+# 国外域名规则（共 4697 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -470,6 +470,7 @@
 [/bigone.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bild.de/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bili.rip/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/bilibili.tv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/bilinovel.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/biliworld.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/binance.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
