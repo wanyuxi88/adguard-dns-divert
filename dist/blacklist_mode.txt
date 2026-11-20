@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-11-19 05:28:27
+# 自动生成于 2026-11-20 05:15:49
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4698 个域名）
+# 国外域名规则（共 4700 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -1145,6 +1145,7 @@
 [/dtiblog.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/dtic.mil/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/dubox.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/duck.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duck.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duckduckgo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/duckmylife.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -1511,11 +1512,11 @@
 [/gabocorp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gagaoolala.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/galenwu.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
-[/game735.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gamer-cds.cdn.hinet.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gamer.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gamer2-cds.cdn.hinet.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gamez.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/gamma.app/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/ganjing.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/ganjingworld.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/gaoming.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3616,6 +3617,7 @@
 [/sotwe.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soubory.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soulcaliburhentai.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/soulogic.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soundcloud.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soundofhope.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/soundon.fm/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
