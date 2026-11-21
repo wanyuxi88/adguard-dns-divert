@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式
-# 自动生成于 2026-11-20 05:15:49
+# 自动生成于 2026-11-21 05:08:00
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -17,7 +17,7 @@
 [/tieba.baidu.com/]https://dns.alidns.com/dns-query https://doh.360.cn/dns-query 223.5.5.5 119.29.29.29
 
 #==================================================
-# 国外域名规则（共 4700 个域名）
+# 国外域名规则（共 4726 个域名）
 #==================================================
 [/000webhost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/0rz.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -844,7 +844,9 @@
 [/cmcn.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cmegroup.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cmi.org.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/cmmedia.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cmoinc.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/cmoney.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cms.gov/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cmule.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cmx.im/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -860,6 +862,7 @@
 [/cnd.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cnnews.chosun.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cnpolitics.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/cnyes.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/co.ng.mil/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/coat.co.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/cobinhood.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -1172,6 +1175,7 @@
 [/e-gold.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/e-hentai.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/e-hentaidb.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/e-info.org.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/e-zone.com.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/e123.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/e621.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -1895,6 +1899,7 @@
 [/greatfire.us7.list-manage.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/greatfirevpn.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/greatfirewallofchina.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/greenbean.media/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/greenpeace.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/greenvpn.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/grindr.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2016,13 +2021,16 @@
 [/hkanews.wordpress.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkbookcity.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkchronicles.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/hkcitycreation.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkcnews.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkcoc.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkcoc.weather.com.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/hkcourtnews.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkdc.us/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkej.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hket.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkfaa.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/hkfeature.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkgalden.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkgolden.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/hkgpao.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2478,6 +2486,7 @@
 [/library.usc.cuhk.edu.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/libredd.it/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/lifemiles.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/lifesitenews.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/lighten.org.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/lighti.me/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/lightnovel.cn/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2486,6 +2495,7 @@
 [/lihkg.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/like.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/lilaoshibushinilaoshi.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/limedia.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/line-apps.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/line-scdn.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/line.me/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2588,6 +2598,7 @@
 [/marxists.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mas.to/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mash.to/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/master-insight.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mastodon.cloud/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mastodon.host/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mastodon.online/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2603,6 +2614,7 @@
 [/matters.town/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/matthewdgreen.wordpress.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mattwilcox.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/mc.yandex.ru/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mcadforums.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mcaf.ee/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mceindex.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2726,6 +2738,7 @@
 [/mondex.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/money-link.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/moneydj.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/moneynet.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/monica.im/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/monitorchina.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/monlamit.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2773,6 +2786,7 @@
 [/mvg.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/mx/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/my/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/my-formosa.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/my-private-network.co.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/my.pcloud.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/my5.tv/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -2873,6 +2887,7 @@
 [/newthuhole.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/newyorker.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nexon.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/nextapple.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nextdigital.com.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nexton-net.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/nexttv.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3089,6 +3104,7 @@
 [/parsevideo.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/partnerstack.xyz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/passion.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/passiontimes.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/paste.ee/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pastie.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/patreon.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3276,6 +3292,7 @@
 [/pubu.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/puffinbrowser.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pullfolio.co/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/pulsehknews.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pure18.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pureconcepts.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/pureinsight.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3510,6 +3527,7 @@
 [/shadowsocks.com.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/shadowsocks.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/shahit.biz/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/shanghainationalparty.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/share-videos.se/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/share.america.gov/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/sharecool.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3549,6 +3567,7 @@
 [/sing-box.sagernet.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/singaporepools.com.sg/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/singlelogin.se/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/singpao.com.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/singtao.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/singtaousa.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/sinoants.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3767,6 +3786,7 @@
 [/taiwanncf.org.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwannews.com.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwanonline.cc/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/taiwantoday.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/taiwantt.org.tw/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/talkatone.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/talkboxapp.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3834,6 +3854,7 @@
 [/thecenter.mit.edu/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thechasernews.co.uk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thechinacollection.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/thecollectivehk.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/theconversation.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thedalailamamovie.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thediplomat.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -3849,18 +3870,22 @@
 [/theinitium.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/theintercept.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thenewslens.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/theonlinecitizen.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thepiratebay.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/theporndude.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/theportalwiki.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/theprint.in/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thesaturdaypaper.com.au/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/thestandard.com.hk/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thestandnews.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/thestar.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thetatoken.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thetibetpost.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thetvdb.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/theweek.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thewgo.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thewirechina.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/thewitnesshk.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/theync.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thinkchina.sg/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/thinkgeek.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
@@ -4453,6 +4478,7 @@
 [/woeser.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wokar.org/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wolfax.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
+[/womany.net/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/wombo.ai/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/woolyss.com/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
 [/woopie.jp/]https://dns.cloudflare.com/dns-query https://dns.google/dns-query
