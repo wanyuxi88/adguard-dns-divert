@@ -138,9 +138,7 @@ agnesb.fr
 agoogleaday.com
 agro.hk
 ai
-ai.azure.com
 ai.dev
-ai.google.dev
 ai.studio
 aidc.com.tw
 aihub.top
@@ -150,7 +148,6 @@ airconsole.com
 airitilibrary.com
 airuniversity.af.edu
 airvpn.org
-aistudio.google.com
 ait.org.tw
 aiv-cdn.net
 aiv-delivery.net
@@ -243,8 +240,6 @@ apat1989.org
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.githubcopilot.com
-api.groq.com
 api.moomoobull.com
 api.palworldgame.com
 api.pureapk.com
@@ -252,7 +247,6 @@ api.recaptcha.net
 api.shuaiapi.com
 api.steampowered.com
 api.themoviedb.org
-api.together.xyz
 api.viu.now.com
 apiary.io
 apigee.com
@@ -329,7 +323,6 @@ atv-ps.amazon.com
 au
 auctions.yahoo.co.jp
 audacy.com
-auth0.com
 autodraw.com
 av.movie
 av01.tv
@@ -377,7 +370,6 @@ bankmobilevibe.com
 bannedbook.org
 banorte.com
 baramangaonline.com
-bard.google.com
 barnabu.co.uk
 bartender.dowjones.com
 barton.de
@@ -699,7 +691,6 @@ cfr.org
 cg.play-analytics.com
 cgdepot.org
 ch
-challenges.cloudflare.com
 change.org
 changp.com
 channel4.com
@@ -808,7 +799,6 @@ claudeusercontent.com
 cldr.unicode.org
 clearsurance.com
 clementine-player.org
-client-api.arkoselabs.com
 clinica-tibet.ru
 clipconverter.cc
 cloud.dify.ai
@@ -873,7 +863,6 @@ comparitech.com
 compileheart.com
 connect.facebook.net
 conoha.jp
-console.groq.com
 console.typesafe.ai
 content.jwplatform.com
 contests.twilio.com
@@ -882,8 +871,6 @@ coolaler.com
 coolder.com
 coolloud.org.tw
 coolstuffinc.com
-copilot-proxy.githubusercontent.com
-copilot.cloud.microsoft
 copilot.microsoft.com
 cos-moe.com
 cosplayjav.pl
@@ -935,8 +922,6 @@ ctwant.com
 cuiweiping.net
 culture.tw
 cumlouder.com
-cursor.com
-cursor.sh
 curvefish.com
 cusp.hk
 cutout.pro
@@ -1237,7 +1222,6 @@ eu.org
 eurekavpt.com
 euronews.com
 evchk.wikia.com
-events.statsigapi.net
 everipedia.org
 evschool.net
 exchristian.hk
@@ -1318,7 +1302,6 @@ fbcdn.net
 fbsbx.com
 fbworkmail.com
 fc2cn.com
-featuregates.org
 feedburner.com
 feeder.co
 feedly.com
@@ -1523,10 +1506,8 @@ gdaily.org
 geek-art.net
 gekikame.com
 gelbooru.com
-gemini.google.com
 gencraft.com
 generated.photos
-generativelanguage.googleapis.com
 genius.com
 geph.io
 get.app
@@ -1871,8 +1852,6 @@ graph.org
 graphis.ne.jp
 graphql.org
 gravatar.com
-grazie.ai
-grazie.aws.intellij.net
 greasyfork.org
 greatfire.org
 greatfire.us7.list-manage.com
@@ -2127,7 +2106,6 @@ id
 id.heroku.com
 idcflare.com
 identi.ca
-identrust.com
 idiomconnection.com
 idlcoyote.com
 idope.se
@@ -2200,8 +2178,6 @@ insidevoa.com
 instagram.com
 institut-tibetain.org
 interactivebrokers.com
-intercom.io
-intercomcdn.com
 internet.org
 internetfreedom.org
 internetpopculture.com
@@ -2298,7 +2274,6 @@ javmobile.net
 javseen.com
 jcpenney.com
 jdshipin.com
-jetbrains.ai
 jex.com
 jgoodies.com
 jhelab.org
@@ -2560,7 +2535,6 @@ mahjongsoul.com
 main-ecnpaper-economist.content.pugpig.com
 maiplus.com
 makemymood.com
-makersuite.google.com
 mandiant.com
 mangabz.com
 mangafox.com
@@ -2921,7 +2895,6 @@ nordstromrack.com
 nordvpn.com
 nos.nl
 note.com
-notebooklm.google.com
 notepad-plus-plus.org
 nottinghampost.com
 now.com
@@ -2961,8 +2934,6 @@ nytimg.com
 nytstyle.com
 nz
 o3o.ca
-oaistatic.com
-oaiusercontent.com
 oanda.com
 oann.com
 obyte.org
@@ -3022,7 +2993,6 @@ ooni.io
 ooni.org
 open.firstory.me
 openai.com
-openaiapi-site.azureedge.net
 openapi-quote.longbridge.cn
 openapi-trade.longbridge.cn
 openapi.longbridge.cn
@@ -3133,6 +3103,7 @@ picasaweb.com
 picsart.com
 picuki.com
 pigav.com
+pimg.tw
 pin-cong.com
 pin6.com
 pincong.rocks
@@ -3497,6 +3468,7 @@ sex.com
 sex3.com
 sex8.cc
 sexinsex.net
+sf.net
 sfshibao.com
 sftuk.org
 sg
@@ -3701,7 +3673,6 @@ streaks.jp
 streamable.com
 streamate.com
 streamingthe.net
-stripe.com
 strongvpn.com
 studentsforafreetibet.org
 stumbleupon.com
@@ -4462,6 +4433,7 @@ wombo.ai
 woolyss.com
 woopie.jp
 woopie.tv
+wordpress.com
 work2icu.org
 workatruna.com
 workerempowerment.org
